@@ -10,6 +10,10 @@
           <option name="url" value="https://github.com/bassmake/hi-akka-persistence.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/bassmake/hi-hadoop.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\dev\projects" />
