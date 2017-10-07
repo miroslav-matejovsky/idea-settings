@@ -1,21 +1,13 @@
 <application>
-  <component name="GitRememberedInputs">
+  <component name="HgRememberedInputs">
     <option name="visitedUrls">
       <list>
         <UrlAndUserName>
-          <option name="url" value="https://github.com/evancz/elm-architecture-tutorial" />
-          <option name="userName" value="" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="https://github.com/bassmake/hi-akka-persistence.git" />
-          <option name="userName" value="" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="https://github.com/bassmake/hi-hadoop.git" />
+          <option name="url" value="https://p-ops-vcs.wirecard.sys/scm-webapp/hg/msva-voucher" />
           <option name="userName" value="" />
         </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="D:\dev\projects" />
+    <option name="cloneParentDir" value="$USER_HOME$/dev/repositories" />
   </component>
 </application>

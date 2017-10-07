@@ -4,30 +4,36 @@
       <component name="GradleLocalSettings">
         <option name="modificationStamps">
           <map>
-            <entry key="D:/dev/github/liquibase-workshop" value="2967582004566" />
-            <entry key="D:/dev/github/restful-akka" value="2976321250405" />
-            <entry key="D:/dev/lenka" value="2979645227028" />
+            <entry key="$USER_HOME$/dev/github/hi-spring-kotlin" value="2975327390000" />
+            <entry key="$USER_HOME$/dev/github/liquibase-workshop" value="2970692318000" />
+            <entry key="$USER_HOME$/dev/repositories/cpos-res-service/authorization-service" value="2976359735000" />
+            <entry key="$USER_HOME$/dev/repositories/mobs-iln-jenkins-jobs" value="1489058247000" />
+            <entry key="$USER_HOME$/dev/repositories/ms-vas-messaging-test/messaging-module-test" value="2975688905000" />
+            <entry key="$USER_HOME$/dev/repositories/ms-vas-messaging/messaging-mvp" value="2970301125000" />
+            <entry key="$USER_HOME$/dev/repositories/ms-vas-pbl" value="2976533042000" />
+            <entry key="$USER_HOME$/dev/repositories/ms-vas-pbl/hi-spring-kotlin" value="2975719381000" />
+            <entry key="$USER_HOME$/dev/repositories/ms-vas-pbl/pbl-app" value="2979984030000" />
+            <entry key="$USER_HOME$/dev/repositories/msva-voucher/voucher" value="2969509241000" />
           </map>
         </option>
         <option name="externalProjectsViewState">
           <projects_view />
         </option>
       </component>
-      <component name="ProjectRootManager" version="2" languageLevel="JDK_1_3" default="true" />
+      <component name="InspectionProjectProfileManager">
+        <option name="PROJECT_PROFILE" />
+        <version value="1.0" />
+      </component>
+      <component name="PropertiesComponent">
+        <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.scala.compiler.ScalaCompileServerForm" />
+        <property name="nodejs_interpreter_path" value="$USER_HOME$/usr/local/bin/node" />
+      </component>
       <component name="RunManager">
-        <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
-          <module name="" />
-          <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
-          <option name="PROGRAM_PARAMETERS" />
-          <predefined_log_file id="idea.log" enabled="true" />
-          <method />
-        </configuration>
         <configuration default="true" type="Applet" factoryName="Applet">
           <option name="WIDTH" value="400" />
           <option name="HEIGHT" value="300" />
           <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
           <module />
-          <method />
         </configuration>
         <configuration default="true" type="Application" factoryName="Application">
           <option name="MAIN_CLASS_NAME" />
@@ -41,7 +47,6 @@
           <option name="PASS_PARENT_ENVS" value="true" />
           <module name="" />
           <envs />
-          <method />
         </configuration>
         <configuration default="true" type="JUnit" factoryName="JUnit">
           <module name="" />
@@ -61,7 +66,6 @@
           </option>
           <envs />
           <patterns />
-          <method />
         </configuration>
         <configuration default="true" type="Remote" factoryName="Remote">
           <option name="USE_SOCKET_TRANSPORT" value="true" />
@@ -69,7 +73,6 @@
           <option name="SHMEM_ADDRESS" value="javadebug" />
           <option name="HOST" value="localhost" />
           <option name="PORT" value="5005" />
-          <method />
         </configuration>
         <configuration name="&lt;template&gt;" type="TestNG" default="true" selected="false">
           <option name="MAIN_CLASS_NAME" />
@@ -77,18 +80,33 @@
           <option name="PARAMETERS" />
           <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
         </configuration>
+        <configuration name="&lt;template&gt;" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" default="true" selected="false">
+          <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+        </configuration>
       </component>
       <component name="SbtLocalSettings">
         <option name="modificationStamps">
           <map>
-            <entry key="D:/dev/github/akka-http-csv-upload" value="1488735273014" />
-            <entry key="D:/dev/spark/stackoverflow" value="1489602171125" />
-            <entry key="D:/dev/spark/wikipedia" value="1489258325256" />
+            <entry key="$USER_HOME$/dev/github/akka-http-streaming-response-examples" value="1488105014000" />
+            <entry key="$USER_HOME$/dev/projects/Mastering-Akka/chapter09/bookstore-app-complete/common" value="1485252655000" />
+            <entry key="$USER_HOME$/dev/projects/akka-http-logging-starter-kit" value="1485844965000" />
+            <entry key="$USER_HOME$/dev/projects/akka-http-rest" value="1485247385000" />
+            <entry key="$USER_HOME$/dev/projects/akka-rest" value="1484822151000" />
+            <entry key="$USER_HOME$/dev/projects/hi-shapeless" value="1488112880000" />
+            <entry key="$USER_HOME$/dev/projects/macwire-akka-activator" value="1485260646000" />
+            <entry key="$USER_HOME$/dev/repositories/msva-voucher-test/voucher-stress-test" value="1487066243000" />
           </map>
         </option>
         <option name="externalProjectsViewState">
           <projects_view />
         </option>
+      </component>
+      <component name="VcsContentAnnotationSettings">
+        <option name="myLimit" value="2678400000" />
+      </component>
+      <component name="hg4idea.settings">
+        <option name="CHECK_INCOMING_OUTGOING" value="true" />
+        <option name="ROOT_SYNC" value="DONT_SYNC" />
       </component>
       <component name="masterDetails">
         <states>

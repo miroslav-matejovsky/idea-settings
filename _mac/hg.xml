@@ -1,0 +1,16 @@
+<application>
+  <component name="HgGlobalSettings">
+    <option name="myHgExecutable" value="$USER_HOME$/usr/local/bin/hg" />
+    <option name="myRememberedUserNames">
+      <map>
+        <entry key="p-ops-vcs.wirecard.sys/scm-webapp/hg/cpos-omnichannel-analytics" value="miroslav.matejovsky" />
+        <entry key="p-ops-vcs.wirecard.sys/scm-webapp/hg/icls-iln-dev" value="miroslav.matejovsky" />
+        <entry key="p-ops-vcs.wirecard.sys/scm-webapp/hg/icls-iln-mapping" value="miroslav.matejovsky" />
+        <entry key="p-ops-vcs.wirecard.sys/scm-webapp/hg/icls-iln-te-dev" value="miroslav.matejovsky" />
+        <entry key="p-ops-vcs.wirecard.sys/scm-webapp/hg/msva-voucher" value="miroslav.matejovsky" />
+        <entry key="p-ops-vcs.wirecard.sys/scm-webapp/hg/msva-voucher-ui" value="miroslav.matejovsky" />
+        <entry key="p-puppet-vcs01.wirecard.sys/scm-webapp/hg/puppet-apps-mservices" value="miroslav.matejovsky" />
+      </map>
+    </option>
+  </component>
+</application>
