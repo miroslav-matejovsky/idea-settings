@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.html" />
+    <option name="FILE_MASK" value="*.ts" />
     <recentFileMasks>
       <mask>*.css</mask>
       <mask>*.mxml</mask>
@@ -30,11 +30,11 @@
       <mask>*.grad</mask>
       <mask>*.gradl</mask>
       <mask>*.gradle</mask>
-      <mask>*.ts</mask>
-      <mask>*.t</mask>
       <mask>*.</mask>
       <mask>*.h</mask>
       <mask>*.html</mask>
+      <mask>*.t</mask>
+      <mask>*.ts</mask>
     </recentFileMasks>
   </component>
 </application>
