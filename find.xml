@@ -3,9 +3,8 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.gradle" />
     <recentFileMasks>
-      <mask>*.css</mask>
-      <mask>*.mxml</mask>
       <mask>*.sq</mask>
       <mask>*.yml</mask>
       <mask>*.gr</mask>
@@ -23,17 +22,19 @@
       <mask>.*</mask>
       <mask>.</mask>
       <mask>*</mask>
-      <mask>*.g</mask>
       <mask>*.ga</mask>
-      <mask>*.gra</mask>
-      <mask>*.grad</mask>
-      <mask>*.gradl</mask>
-      <mask>*.gradle</mask>
-      <mask>*.</mask>
       <mask>*.h</mask>
       <mask>*.html</mask>
-      <mask>*.t</mask>
       <mask>*.ts</mask>
+      <mask>*.t</mask>
+      <mask>*.</mask>
+      <mask>*.g</mask>
+      <mask>*.gra</mask>
+      <mask>*.grad</mask>
+      <mask>*.gradlew</mask>
+      <mask>*.gradl</mask>
+      <mask>*.gradlw</mask>
+      <mask>*.gradle</mask>
     </recentFileMasks>
   </component>
 </application>
