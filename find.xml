@@ -3,10 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.gradle" />
     <recentFileMasks>
-      <mask>*.yml</mask>
-      <mask>*.gr</mask>
       <mask>*.x</mask>
       <mask>*.xml</mask>
       <mask>*.p</mask>
@@ -35,6 +32,8 @@
       <mask>*.grad</mask>
       <mask>*.gradl</mask>
       <mask>*.gradle</mask>
+      <mask>*.ym</mask>
+      <mask>*.yml</mask>
     </recentFileMasks>
   </component>
 </application>
