@@ -38,9 +38,13 @@
           <option name="url" value="https://github.com/keycloak/keycloak.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitlab.com/bassmake/Result.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/dev/github" />
+    <option name="cloneParentDir" value="C:\Users\miros\dev\github" />
   </component>
   <component name="HgRememberedInputs">
     <option name="visitedUrls">
@@ -52,8 +56,5 @@
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/dev/repositories" />
-  </component>
-  <component name="Vcs.Log.App.Settings">
-    <option name="MIGRATED" value="true" />
   </component>
 </application>
