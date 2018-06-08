@@ -3,37 +3,16 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <recentFileMasks>
-      <mask>*.sq</mask>
-      <mask>*.sql</mask>
-      <mask>*.g</mask>
-      <mask>*.gra</mask>
-      <mask>*.grad</mask>
-      <mask>*.gradl</mask>
-      <mask>*.ym</mask>
-      <mask>*.yml</mask>
-      <mask>*.</mask>
-      <mask>*</mask>
-      <mask>!*</mask>
-      <mask>![]*</mask>
-      <mask>![I]*</mask>
-      <mask>![Im]*</mask>
-      <mask>![Imm]*</mask>
-      <mask>![Imm].*^</mask>
-      <mask>![Imm].*</mask>
-      <mask>^![Imm].*</mask>
-      <mask>^[Imm].*</mask>
-      <mask>^Imm].*</mask>
-      <mask>^Imm.*</mask>
-      <mask>^I.*</mask>
-      <mask>^I*</mask>
-      <mask>^I</mask>
-      <mask>gI</mask>
-      <mask>graI</mask>
-      <mask>gradI</mask>
-      <mask>gradlI</mask>
-      <mask>*.gradleI</mask>
-      <mask>*.gradle</mask>
-    </recentFileMasks>
+    <option name="FILE_MASK" value="*.gradle" />
+    <mask>*.properties</mask>
+    <mask>*.html</mask>
+    <mask>*.jsp</mask>
+    <mask>*.xml</mask>
+    <mask>*.java</mask>
+    <mask>*.js</mask>
+    <mask>*.as</mask>
+    <mask>*.css</mask>
+    <mask>*.mxml</mask>
+    <mask>*.gradle</mask>
   </component>
 </application>
