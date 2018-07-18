@@ -46,6 +46,10 @@
           <option name="url" value="https://github.com/AxonFramework/Axon-trader.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/AxonIQ/axon-quick-start.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\miros\dev\github" />
