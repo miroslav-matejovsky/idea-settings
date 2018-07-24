@@ -1,0 +1,6 @@
+<application>
+  <component name="HaskellConfiguration">
+    <option name="hindentPath" value="C:\Users\miros\AppData\Roaming\local\bin\hindent.exe" />
+    <option name="stylishHaskellPath" value="C:\Users\miros\AppData\Roaming\local\bin\stylish-haskell.exe" />
+  </component>
+</application>
