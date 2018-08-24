@@ -5,11 +5,15 @@
       <mapping pattern="gitignore_global.txt" type="Git file" />
       <mapping pattern=".gitignore_global" type="Git file" />
       <mapping ext="avsc" type="JSON" />
-      <mapping pattern="login-internal" type="PLAIN_TEXT" />
       <mapping pattern="s" type="PLAIN_TEXT" />
+      <mapping pattern="login-internal" type="PLAIN_TEXT" />
       <mapping pattern=",editorconfig" type="PLAIN_TEXT" />
       <mapping pattern=".editorconfig" type="PLAIN_TEXT" />
       <mapping pattern=".gitginore" type="PLAIN_TEXT" />
+      <mapping ext="der" type="PLAIN_TEXT" />
+      <mapping ext="pem" type="PLAIN_TEXT" />
+      <mapping ext="key" type="PLAIN_TEXT" />
+      <mapping ext="sch" type="XML" />
       <mapping ext="fnc" type="DBN-PSQL" />
       <mapping ext="pkb" type="DBN-PSQL" />
       <mapping ext="pkg" type="DBN-PSQL" />

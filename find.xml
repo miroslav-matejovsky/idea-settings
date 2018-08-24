@@ -10,9 +10,11 @@
     <mask>*.as</mask>
     <mask>*.css</mask>
     <mask>*.mxml</mask>
-    <mask>*.xml</mask>
     <mask>*.java</mask>
-    <mask>*.gradle</mask>
     <mask>*.yml</mask>
+    <mask>*.md</mask>
+    <mask>*.sql</mask>
+    <mask>*.gradle</mask>
+    <mask>*.xml</mask>
   </component>
 </application>
