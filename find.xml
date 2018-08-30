@@ -14,7 +14,7 @@
     <mask>*.yml</mask>
     <mask>*.md</mask>
     <mask>*.sql</mask>
-    <mask>*.gradle</mask>
     <mask>*.xml</mask>
+    <mask>*.gradle</mask>
   </component>
 </application>
