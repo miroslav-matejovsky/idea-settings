@@ -1,5 +1,6 @@
 <application>
   <component name="CodeInsightSettings">
     <EXCLUDED_PACKAGE NAME="com.sun.net.httpserver" />
+    <EXCLUDED_PACKAGE NAME="sun.awt.EventListenerAggregate" />
   </component>
 </application>
