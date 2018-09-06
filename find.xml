@@ -14,7 +14,8 @@
     <mask>*.yml</mask>
     <mask>*.md</mask>
     <mask>*.sql</mask>
-    <mask>*.xml</mask>
+    <mask>*Controller.java</mask>
     <mask>*.gradle</mask>
+    <mask>*.xml</mask>
   </component>
 </application>
