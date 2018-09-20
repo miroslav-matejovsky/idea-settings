@@ -18,5 +18,7 @@
     <mask>*.gradle</mask>
     <mask>*.xml</mask>
     <mask>*.grap*</mask>
+    <mask>.java</mask>
+    <mask>*.java*</mask>
   </component>
 </application>
