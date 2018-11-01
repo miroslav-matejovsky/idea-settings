@@ -20,5 +20,6 @@
     <mask>*.grap*</mask>
     <mask>.java</mask>
     <mask>*.java*</mask>
+    <mask>*.conf</mask>
   </component>
 </application>
