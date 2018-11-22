@@ -13,13 +13,13 @@
     <mask>*.java</mask>
     <mask>*.yml</mask>
     <mask>*.md</mask>
-    <mask>*.sql</mask>
     <mask>*Controller.java</mask>
-    <mask>*.gradle</mask>
-    <mask>*.xml</mask>
     <mask>*.grap*</mask>
     <mask>.java</mask>
     <mask>*.java*</mask>
     <mask>*.conf</mask>
+    <mask>*.xml</mask>
+    <mask>*.gradle</mask>
+    <mask>*.sql</mask>
   </component>
 </application>
