@@ -129,6 +129,14 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'TransactionReceiverF...'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'TransactionReceiverF...'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'thatBrandListIsDif...()'">
         <Item>
           <IdeaActionID>RunClass</IdeaActionID>
