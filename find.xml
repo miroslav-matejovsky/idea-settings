@@ -19,7 +19,7 @@
     <mask>*.java*</mask>
     <mask>*.conf</mask>
     <mask>*.xml</mask>
-    <mask>*.gradle</mask>
     <mask>*.sql</mask>
+    <mask>*.gradle</mask>
   </component>
 </application>
