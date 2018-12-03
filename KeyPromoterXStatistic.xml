@@ -126,7 +126,7 @@
           <IdeaActionID>$Delete</IdeaActionID>
           <ShortCut>'⌦' or '⌫' or '⌘⌫'</ShortCut>
           <Description>Delete...</Description>
-          <Count>57</Count>
+          <Count>58</Count>
         </Item>
       </Statistic>
       <Statistic Action="Evaluate Expression...">
@@ -150,7 +150,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>GoTo</Description>
-          <Count>257</Count>
+          <Count>260</Count>
         </Item>
       </Statistic>
       <Statistic Action="Paste">
@@ -390,7 +390,7 @@
           <IdeaActionID>ChangesView.Revert</IdeaActionID>
           <ShortCut>'⌥⌘Z'</ShortCut>
           <Description>Revert...</Description>
-          <Count>23</Count>
+          <Count>24</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run">
@@ -686,7 +686,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'⌥F12'</ShortCut>
           <Description>Terminal</Description>
-          <Count>184</Count>
+          <Count>186</Count>
         </Item>
       </Statistic>
       <Statistic Action="Test">
@@ -718,7 +718,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'⌘9' or '⇧⌘9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>231</Count>
+          <Count>235</Count>
         </Item>
       </Statistic>
     </option>
