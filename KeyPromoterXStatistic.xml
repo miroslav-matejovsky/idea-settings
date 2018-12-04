@@ -329,6 +329,14 @@
           <Count>14</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'PointsServiceRedeemMonetaryTransactionTest.thatMethodRedeemMonetaryTransactionWorksCorrectly'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'PointsServiceRedeemMonetaryTransactionTest.thatMethodRedeemMonetaryTransactionWorksCorrectly'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'ReportGetXlsFeatureSpec'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -438,7 +446,7 @@
           <IdeaActionID>ActivateRunToolWindow</IdeaActionID>
           <ShortCut>'⌘4'</ShortCut>
           <Description>Run</Description>
-          <Count>24</Count>
+          <Count>25</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'All Tests'">
@@ -454,6 +462,14 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run 'ApiDocumentationForReportWithContent'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'CustomerAdjustPointsByInternalIdFeatureTest'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'CustomerAdjustPointsByInternalIdFeatureTest'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
@@ -673,6 +689,22 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'thatMethodAddMonet...()'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'thatMethodAddMonet...()'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'thatMethodRedeemMo...()'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'thatMethodRedeemMo...()'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'thatReportContentC...()'">
         <Item>
           <IdeaActionID>RunClass</IdeaActionID>
@@ -782,7 +814,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'⌥F12'</ShortCut>
           <Description>Terminal</Description>
-          <Count>237</Count>
+          <Count>240</Count>
         </Item>
       </Statistic>
       <Statistic Action="Test">
