@@ -23,5 +23,6 @@
     <mask>*.sql</mask>
     <mask>*.gradle</mask>
     <mask>*.xml</mask>
+    <mask>*.adoc</mask>
   </component>
 </application>
