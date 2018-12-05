@@ -24,5 +24,6 @@
     <mask>*.gradle</mask>
     <mask>*.xml</mask>
     <mask>*.adoc</mask>
+    <mask>*.proto</mask>
   </component>
 </application>
