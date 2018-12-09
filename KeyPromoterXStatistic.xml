@@ -622,7 +622,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run 'StorePointTransactio...'</Description>
-          <Count>6</Count>
+          <Count>7</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'Tests in 'api''">
@@ -974,7 +974,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'⌥F12'</ShortCut>
           <Description>Terminal</Description>
-          <Count>328</Count>
+          <Count>329</Count>
         </Item>
       </Statistic>
       <Statistic Action="Test">
@@ -1006,7 +1006,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'⌘9' or '⇧⌘9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>362</Count>
+          <Count>363</Count>
         </Item>
       </Statistic>
     </option>
