@@ -174,7 +174,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>GoTo</Description>
-          <Count>516</Count>
+          <Count>519</Count>
         </Item>
       </Statistic>
       <Statistic Action="Messages">
@@ -990,7 +990,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'⌥F12'</ShortCut>
           <Description>Terminal</Description>
-          <Count>343</Count>
+          <Count>344</Count>
         </Item>
       </Statistic>
       <Statistic Action="Test">
