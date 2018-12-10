@@ -21,7 +21,7 @@
     <mask>*.sql</mask>
     <mask>*.xml</mask>
     <mask>*.adoc</mask>
-    <mask>*.proto</mask>
     <mask>*.gradle</mask>
+    <mask>*.proto</mask>
   </component>
 </application>
