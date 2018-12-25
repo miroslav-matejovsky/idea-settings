@@ -166,7 +166,7 @@
           <IdeaActionID>$Delete</IdeaActionID>
           <ShortCut>'⌦' or '⌫' or '⌘⌫'</ShortCut>
           <Description>Delete...</Description>
-          <Count>113</Count>
+          <Count>114</Count>
         </Item>
       </Statistic>
       <Statistic Action="Evaluate Expression...">
@@ -1054,7 +1054,7 @@
           <IdeaActionID>Diff.ShowDiff</IdeaActionID>
           <ShortCut>'⌘D'</ShortCut>
           <Description>Show Diff</Description>
-          <Count>17</Count>
+          <Count>18</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'DividerSpec'">
@@ -1190,7 +1190,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'⌘9' or '⇧⌘9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>502</Count>
+          <Count>503</Count>
         </Item>
       </Statistic>
     </option>
