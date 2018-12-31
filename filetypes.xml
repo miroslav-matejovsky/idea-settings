@@ -15,6 +15,7 @@
       <mapping ext="vw" type="DBN-SQL" />
       <mapping pattern="gitignore_global.txt" type="Git file" />
       <mapping pattern=".gitignore_global" type="Git file" />
+      <mapping ext="avro" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
