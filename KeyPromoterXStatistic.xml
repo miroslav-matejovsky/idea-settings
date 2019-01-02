@@ -30,7 +30,7 @@
           <IdeaActionID>CheckinProject</IdeaActionID>
           <ShortCut>'⌘K'</ShortCut>
           <Description>Commit...</Description>
-          <Count>189</Count>
+          <Count>190</Count>
         </Item>
       </Statistic>
       <Statistic Action="Copy">
@@ -190,7 +190,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>GoTo</Description>
-          <Count>698</Count>
+          <Count>701</Count>
         </Item>
       </Statistic>
       <Statistic Action="Messages">
@@ -703,6 +703,14 @@
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run 'ExchangeVoucherPurch...'</Description>
           <Count>7</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'ExternalCustomerInfo...'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'ExternalCustomerInfo...'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'FullFeatureSpecSuite'">
@@ -1222,7 +1230,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'⌘9' or '⇧⌘9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>534</Count>
+          <Count>535</Count>
         </Item>
       </Statistic>
     </option>
