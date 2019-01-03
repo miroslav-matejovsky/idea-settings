@@ -30,7 +30,7 @@
           <IdeaActionID>CheckinProject</IdeaActionID>
           <ShortCut>'⌘K'</ShortCut>
           <Description>Commit...</Description>
-          <Count>191</Count>
+          <Count>192</Count>
         </Item>
       </Statistic>
       <Statistic Action="Copy">
@@ -198,7 +198,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>GoTo</Description>
-          <Count>729</Count>
+          <Count>737</Count>
         </Item>
       </Statistic>
       <Statistic Action="Messages">
@@ -406,7 +406,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'ExternalCustomerInfoServiceSpec.The RegistrarService should return external customer info'</Description>
-          <Count>20</Count>
+          <Count>28</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'FlatFileReportGeneratorFilteringFeatureSpec.that_filter_date_can_be_filtered_by_date_to'">
@@ -638,7 +638,7 @@
           <IdeaActionID>ActivateRunToolWindow</IdeaActionID>
           <ShortCut>'⌘4'</ShortCut>
           <Description>Run</Description>
-          <Count>42</Count>
+          <Count>43</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'All Tests'">
@@ -742,7 +742,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run 'ExternalCustomerInfo...'</Description>
-          <Count>5</Count>
+          <Count>7</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'FullFeatureSpecSuite'">
@@ -750,6 +750,14 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run 'FullFeatureSpecSuite'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'ItemServiceImplInteg...'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'ItemServiceImplInteg...'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
@@ -1262,7 +1270,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'⌘9' or '⇧⌘9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>539</Count>
+          <Count>540</Count>
         </Item>
       </Statistic>
     </option>
