@@ -174,7 +174,7 @@
           <IdeaActionID>$Delete</IdeaActionID>
           <ShortCut>'⌦' or '⌫' or '⌘⌫'</ShortCut>
           <Description>Delete...</Description>
-          <Count>130</Count>
+          <Count>131</Count>
         </Item>
       </Statistic>
       <Statistic Action="Evaluate Expression...">
@@ -198,7 +198,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>GoTo</Description>
-          <Count>744</Count>
+          <Count>746</Count>
         </Item>
       </Statistic>
       <Statistic Action="Messages">
@@ -206,7 +206,7 @@
           <IdeaActionID>ActivateMessagesToolWindow</IdeaActionID>
           <ShortCut>'⌘0'</ShortCut>
           <Description>Messages</Description>
-          <Count>10</Count>
+          <Count>11</Count>
         </Item>
       </Statistic>
       <Statistic Action="Optimize Imports">
@@ -375,6 +375,22 @@
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'EndOfDayReportFeatureTest.thatCanGetEndOfDayReportWithReversals'</Description>
           <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'EventuallyFutureTest.addSoon should eventually compute a sum of passed Ints with blocking'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'EventuallyFutureTest.addSoon should eventually compute a sum of passed Ints with blocking'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'EventuallyFutureTest.addSoon should eventually compute a sum of passed Ints'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'EventuallyFutureTest.addSoon should eventually compute a sum of passed Ints'</Description>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'ExceptionToErrorTranslatorTest'">
@@ -638,7 +654,7 @@
           <IdeaActionID>ActivateRunToolWindow</IdeaActionID>
           <ShortCut>'⌘4'</ShortCut>
           <Description>Run</Description>
-          <Count>43</Count>
+          <Count>44</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'All Tests'">
@@ -713,6 +729,22 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'EventuallyFutureTest'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'EventuallyFutureTest'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'EventuallyFutureTest...'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'EventuallyFutureTest...'</Description>
+          <Count>9</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'ExceptionToErrorTranslatorTest'">
         <Item>
           <IdeaActionID>RunClass</IdeaActionID>
@@ -742,7 +774,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run 'ExternalCustomerInfo...'</Description>
-          <Count>8</Count>
+          <Count>11</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'FullFeatureSpecSuite'">
@@ -1254,7 +1286,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌘F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>49</Count>
+          <Count>50</Count>
         </Item>
       </Statistic>
       <Statistic Action="Unshelve...">
