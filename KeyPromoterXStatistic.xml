@@ -73,6 +73,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'ExternalCustomerInfo...'">
+        <Item>
+          <IdeaActionID>DebugClass</IdeaActionID>
+          <ShortCut>'⌃⇧D'</ShortCut>
+          <Description>Debug 'ExternalCustomerInfo...'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'PblTransactionsConsu...'">
         <Item>
           <IdeaActionID>DebugClass</IdeaActionID>
@@ -166,7 +174,7 @@
           <IdeaActionID>$Delete</IdeaActionID>
           <ShortCut>'⌦' or '⌫' or '⌘⌫'</ShortCut>
           <Description>Delete...</Description>
-          <Count>124</Count>
+          <Count>125</Count>
         </Item>
       </Statistic>
       <Statistic Action="Evaluate Expression...">
@@ -174,7 +182,7 @@
           <IdeaActionID>EvaluateExpression</IdeaActionID>
           <ShortCut>'⌥F8'</ShortCut>
           <Description>Evaluate Expression...</Description>
-          <Count>17</Count>
+          <Count>19</Count>
         </Item>
       </Statistic>
       <Statistic Action="Find">
@@ -190,7 +198,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>GoTo</Description>
-          <Count>720</Count>
+          <Count>727</Count>
         </Item>
       </Statistic>
       <Statistic Action="Messages">
@@ -390,7 +398,15 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'ExternalCustomerEntitySpec.External customer entity must handle ProcessTransaction'</Description>
-          <Count>1</Count>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'ExternalCustomerInfoServiceSpec.The RegistrarService should return external customer info'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'ExternalCustomerInfoServiceSpec.The RegistrarService should return external customer info'</Description>
+          <Count>13</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'FlatFileReportGeneratorFilteringFeatureSpec.that_filter_date_can_be_filtered_by_date_to'">
@@ -606,7 +622,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'⌥⌘R' or 'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>61</Count>
+          <Count>62</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -718,7 +734,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run 'ExternalCustomerEnti...'</Description>
-          <Count>2</Count>
+          <Count>8</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'ExternalCustomerInfo...'">
@@ -726,7 +742,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run 'ExternalCustomerInfo...'</Description>
-          <Count>2</Count>
+          <Count>5</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'FullFeatureSpecSuite'">
@@ -1214,7 +1230,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'⌥F12'</ShortCut>
           <Description>Terminal</Description>
-          <Count>434</Count>
+          <Count>435</Count>
         </Item>
       </Statistic>
       <Statistic Action="Test">
@@ -1230,7 +1246,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌘F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>48</Count>
+          <Count>49</Count>
         </Item>
       </Statistic>
       <Statistic Action="Unshelve...">
@@ -1246,7 +1262,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'⌘9' or '⇧⌘9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>538</Count>
+          <Count>539</Count>
         </Item>
       </Statistic>
     </option>
