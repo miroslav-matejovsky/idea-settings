@@ -5,8 +5,10 @@
       <mapping ext="klib" type="ARCHIVE" />
       <mapping pattern="gitignore_global.txt" type="Git file" />
       <mapping pattern=".gitignore_global" type="Git file" />
+      <mapping ext="avsc" type="JSON" />
       <mapping pattern=".sbtopts" type="PLAIN_TEXT" />
-      <mapping ext="avro" type="PLAIN_TEXT" />
+      <removed_mapping ext="avro" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="avsc" approved="true" type="PLAIN_TEXT" />
       <mapping ext="fnc" type="DBN-PSQL" />
       <mapping ext="pkb" type="DBN-PSQL" />
       <mapping ext="pkg" type="DBN-PSQL" />
