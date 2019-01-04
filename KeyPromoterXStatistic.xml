@@ -174,7 +174,7 @@
           <IdeaActionID>$Delete</IdeaActionID>
           <ShortCut>'⌦' or '⌫' or '⌘⌫'</ShortCut>
           <Description>Delete...</Description>
-          <Count>132</Count>
+          <Count>134</Count>
         </Item>
       </Statistic>
       <Statistic Action="Evaluate Expression...">
@@ -254,7 +254,7 @@
           <IdeaActionID>RenameElement</IdeaActionID>
           <ShortCut>'⇧F6'</ShortCut>
           <Description>Rename...</Description>
-          <Count>33</Count>
+          <Count>35</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'AdjustCustomerPointsGrpcFeatureTest.thatPointsCanBeAdjustedWithGroupId'">
@@ -633,12 +633,20 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'sk.bsmk.hi.kafka.ConsumerKt'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'sk.bsmk.hi.kafka.ConsumerKt'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'sk.bsmk.hi.kafka.MainKt'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'sk.bsmk.hi.kafka.MainKt'</Description>
-          <Count>2</Count>
+          <Count>6</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'year2018.day01.Year_2018_01Kt'">
@@ -1001,11 +1009,27 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'sk.bsmk.hi.kafka.Con...'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'sk.bsmk.hi.kafka.Con...'</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'sk.bsmk.hi.kafka.Mai...'">
         <Item>
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run 'sk.bsmk.hi.kafka.Mai...'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'sk.bsmk.hi.kafka.Pro...'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'sk.bsmk.hi.kafka.Pro...'</Description>
           <Count>2</Count>
         </Item>
       </Statistic>
@@ -1263,6 +1287,14 @@
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'TransactionReceiverFeatureSpec.Feature: Transaction events consumption Scenario: Invalid transaction should not be stored to unprocessed queue and next transaction should be persisted'</Description>
           <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'sk.bsmk.hi.kafka.ConsumerKt'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'sk.bsmk.hi.kafka.ConsumerKt'</Description>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'year2018.day01.Year_2018_01Kt'">
