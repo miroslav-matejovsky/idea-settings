@@ -38,7 +38,15 @@
           <IdeaActionID>$Copy</IdeaActionID>
           <ShortCut>'⌘C'</ShortCut>
           <Description>Copy</Description>
-          <Count>43</Count>
+          <Count>45</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Copy Relative Path">
+        <Item>
+          <IdeaActionID>CopyReference</IdeaActionID>
+          <ShortCut>'⌥⇧⌘C'</ShortCut>
+          <Description>Copy Relative Path</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug">
@@ -198,7 +206,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>GoTo</Description>
-          <Count>767</Count>
+          <Count>768</Count>
         </Item>
       </Statistic>
       <Statistic Action="Messages">
@@ -222,7 +230,7 @@
           <IdeaActionID>$Paste</IdeaActionID>
           <ShortCut>'⌘V'</ShortCut>
           <Description>Paste</Description>
-          <Count>44</Count>
+          <Count>45</Count>
         </Item>
       </Statistic>
       <Statistic Action="Project">
