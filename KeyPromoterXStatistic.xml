@@ -182,7 +182,7 @@
           <IdeaActionID>$Delete</IdeaActionID>
           <ShortCut>'⌦' or '⌫' or '⌘⌫'</ShortCut>
           <Description>Delete...</Description>
-          <Count>135</Count>
+          <Count>137</Count>
         </Item>
       </Statistic>
       <Statistic Action="Evaluate Expression...">
@@ -206,7 +206,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>GoTo</Description>
-          <Count>801</Count>
+          <Count>805</Count>
         </Item>
       </Statistic>
       <Statistic Action="Messages">
@@ -270,7 +270,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'AddRuleSpec.RewlRulesEntity should process AddRule command with TransactionOverCondition'</Description>
-          <Count>1</Count>
+          <Count>13</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'AddRuleSpec.RewlRulesEntity should process AddRule command'">
@@ -718,7 +718,7 @@
           <IdeaActionID>ActivateRunToolWindow</IdeaActionID>
           <ShortCut>'⌘4'</ShortCut>
           <Description>Run</Description>
-          <Count>47</Count>
+          <Count>55</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'AddRuleSpec.RewlRule...'">
@@ -1414,7 +1414,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'⌘9' or '⇧⌘9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>552</Count>
+          <Count>553</Count>
         </Item>
       </Statistic>
     </option>
