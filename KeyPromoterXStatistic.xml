@@ -265,6 +265,14 @@
           <Count>35</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'AddRuleSpec.RewlRulesEntity should process AddRule command with TransactionOverCondition'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'AddRuleSpec.RewlRulesEntity should process AddRule command with TransactionOverCondition'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'AddRuleSpec.RewlRulesEntity should process AddRule command'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
