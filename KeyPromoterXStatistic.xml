@@ -222,7 +222,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>GoTo</Description>
-          <Count>826</Count>
+          <Count>827</Count>
         </Item>
       </Statistic>
       <Statistic Action="Messages">
@@ -782,6 +782,14 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run 'ApiDocumentationForReportWithContent'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'ConditionJsonFormatS...'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'ConditionJsonFormatS...'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
@@ -1486,7 +1494,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'⌘9' or '⇧⌘9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>560</Count>
+          <Count>561</Count>
         </Item>
       </Statistic>
     </option>
