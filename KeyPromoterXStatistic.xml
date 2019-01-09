@@ -30,7 +30,7 @@
           <IdeaActionID>CheckinProject</IdeaActionID>
           <ShortCut>'⌘K'</ShortCut>
           <Description>Commit...</Description>
-          <Count>206</Count>
+          <Count>207</Count>
         </Item>
       </Statistic>
       <Statistic Action="Copy">
@@ -415,6 +415,14 @@
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'DividerSpec.Divider when dividing 3 by 1 should return (3)'</Description>
           <Count>6</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'EasyRuleSupportSpec'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'EasyRuleSupportSpec'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'EndOfDayReportFeatureTest'">
@@ -857,6 +865,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'EasyRuleSupportSpec'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'EasyRuleSupportSpec'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'EndOfDayReportFeatureTest'">
         <Item>
           <IdeaActionID>RunClass</IdeaActionID>
@@ -870,6 +886,14 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run 'EvaluateFactCommandS...'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'EvaluateFactsCommand...'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'EvaluateFactsCommand...'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
@@ -1486,7 +1510,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'⌥F12'</ShortCut>
           <Description>Terminal</Description>
-          <Count>454</Count>
+          <Count>455</Count>
         </Item>
       </Statistic>
       <Statistic Action="Test">
@@ -1518,7 +1542,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'⌘9' or '⇧⌘9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>575</Count>
+          <Count>578</Count>
         </Item>
       </Statistic>
     </option>
