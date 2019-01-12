@@ -7,6 +7,7 @@
       <mapping pattern=".gitignore_global" type="Git file" />
       <mapping ext="avsc" type="JSON" />
       <mapping pattern=".sbtopts" type="PLAIN_TEXT" />
+      <mapping pattern=".keep" type="PLAIN_TEXT" />
       <removed_mapping ext="avro" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="avsc" approved="true" type="PLAIN_TEXT" />
       <mapping ext="fnc" type="DBN-PSQL" />
