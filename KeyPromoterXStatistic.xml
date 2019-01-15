@@ -30,7 +30,7 @@
           <IdeaActionID>CheckinProject</IdeaActionID>
           <ShortCut>'⌘K'</ShortCut>
           <Description>Commit...</Description>
-          <Count>238</Count>
+          <Count>239</Count>
         </Item>
       </Statistic>
       <Statistic Action="Copy">
@@ -238,7 +238,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>GoTo</Description>
-          <Count>887</Count>
+          <Count>891</Count>
         </Item>
       </Statistic>
       <Statistic Action="Messages">
@@ -390,6 +390,14 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'BrandsConfigurationFeatureSpec.thatBrandsConfigurationIsCorrect'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'CreateFeeModelFeatureTest.thatFeeModelCanBeCreatedWithValidUntilInPast'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'CreateFeeModelFeatureTest.thatFeeModelCanBeCreatedWithValidUntilInPast'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
@@ -745,6 +753,22 @@
           <Count>8</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'UpdateFeeModelFeatureTest.thatFeeModelCanBeUpdatedWithValidFrom'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'UpdateFeeModelFeatureTest.thatFeeModelCanBeUpdatedWithValidFrom'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'UpdateFeeModelFeatureTest.thatFeeModelCannotBeUpdatedWithValidFromAfterValidUntil'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'UpdateFeeModelFeatureTest.thatFeeModelCannotBeUpdatedWithValidFromAfterValidUntil'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'Year_2018_01Kt (1)'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -830,7 +854,7 @@
           <IdeaActionID>ChangesView.Revert</IdeaActionID>
           <ShortCut>'⌥⌘Z'</ShortCut>
           <Description>Revert...</Description>
-          <Count>68</Count>
+          <Count>69</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run">
@@ -1209,6 +1233,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'emptyList()'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'emptyList()'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'reportList()'">
         <Item>
           <IdeaActionID>RunClass</IdeaActionID>
@@ -1335,6 +1367,30 @@
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run 'thatExpiredPointsB...()'</Description>
           <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'thatFeeModelCanBeC...()'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'thatFeeModelCanBeC...()'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'thatFeeModelCanBeU...()'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'thatFeeModelCanBeU...()'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'thatFeeModelCannot...()'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'thatFeeModelCannot...()'</Description>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'thatIlnDbIsChecked()'">
@@ -1638,7 +1694,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'⌥F12'</ShortCut>
           <Description>Terminal</Description>
-          <Count>552</Count>
+          <Count>568</Count>
         </Item>
       </Statistic>
       <Statistic Action="Test">
@@ -1670,7 +1726,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'⌘9' or '⇧⌘9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>678</Count>
+          <Count>688</Count>
         </Item>
       </Statistic>
     </option>
