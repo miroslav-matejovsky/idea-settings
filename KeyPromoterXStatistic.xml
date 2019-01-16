@@ -30,7 +30,7 @@
           <IdeaActionID>CheckinProject</IdeaActionID>
           <ShortCut>'⌘K'</ShortCut>
           <Description>Commit...</Description>
-          <Count>240</Count>
+          <Count>244</Count>
         </Item>
       </Statistic>
       <Statistic Action="Copy">
@@ -46,6 +46,14 @@
           <IdeaActionID>CopyReference</IdeaActionID>
           <ShortCut>'⌥⇧⌘C'</ShortCut>
           <Description>Copy Relative Path</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Copy Value">
+        <Item>
+          <IdeaActionID>XDebugger.CopyValue</IdeaActionID>
+          <ShortCut>'⌘C'</ShortCut>
+          <Description>Copy Value</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
@@ -182,7 +190,7 @@
           <IdeaActionID>DebugClass</IdeaActionID>
           <ShortCut>'⌃⇧D'</ShortCut>
           <Description>Debug 'thatPointsRedeemed...()'</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'thatReportContentC...()'">
@@ -230,7 +238,7 @@
           <IdeaActionID>$Delete</IdeaActionID>
           <ShortCut>'⌦' or '⌫' or '⌘⌫'</ShortCut>
           <Description>Delete...</Description>
-          <Count>164</Count>
+          <Count>166</Count>
         </Item>
       </Statistic>
       <Statistic Action="Enter Full Screen">
@@ -270,7 +278,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>GoTo</Description>
-          <Count>916</Count>
+          <Count>939</Count>
         </Item>
       </Statistic>
       <Statistic Action="Messages">
@@ -721,6 +729,14 @@
           <Count>4</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'ReschedulingTest.that_task_can_be_rescheduled'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'ReschedulingTest.that_task_can_be_rescheduled'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'ScalaTests in 'domain''">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -894,7 +910,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'⌥⌘R' or 'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>74</Count>
+          <Count>75</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -902,7 +918,7 @@
           <IdeaActionID>ChangesView.Revert</IdeaActionID>
           <ShortCut>'⌥⌘Z'</ShortCut>
           <Description>Revert...</Description>
-          <Count>71</Count>
+          <Count>76</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run">
@@ -1089,6 +1105,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'JooqBillingTransactionCreatePointsRedeemedTest'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'JooqBillingTransactionCreatePointsRedeemedTest'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'JooqReportBlobContentTest'">
         <Item>
           <IdeaActionID>RunClass</IdeaActionID>
@@ -1166,6 +1190,14 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run 'ScalaTests in 'trans...'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'Should_ReturnResul...()'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'Should_ReturnResul...()'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
@@ -1601,6 +1633,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'that_task_can_be_r...()'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'that_task_can_be_r...()'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'that_xls_can_be_ob...()'">
         <Item>
           <IdeaActionID>RunClass</IdeaActionID>
@@ -1662,6 +1702,14 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'ExchangeVoucherPurchaseConsumerFeatureSpec'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'JooqBillingTransactionCreatePointsRedeemedTest.thatPointsRedeemedWithSameIdIsNotStoredAgainAndReturnSuccess'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'JooqBillingTransactionCreatePointsRedeemedTest.thatPointsRedeemedWithSameIdIsNotStoredAgainAndReturnSuccess'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
@@ -1766,7 +1814,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'⌥F12'</ShortCut>
           <Description>Terminal</Description>
-          <Count>579</Count>
+          <Count>593</Count>
         </Item>
       </Statistic>
       <Statistic Action="Test">
@@ -1782,7 +1830,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌘F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>68</Count>
+          <Count>69</Count>
         </Item>
       </Statistic>
       <Statistic Action="Unshelve...">
@@ -1798,7 +1846,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'⌘9' or '⇧⌘9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>701</Count>
+          <Count>707</Count>
         </Item>
       </Statistic>
     </option>
