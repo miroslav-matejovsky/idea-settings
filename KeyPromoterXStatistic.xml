@@ -30,7 +30,7 @@
           <IdeaActionID>CheckinProject</IdeaActionID>
           <ShortCut>'⌘K'</ShortCut>
           <Description>Commit...</Description>
-          <Count>267</Count>
+          <Count>269</Count>
         </Item>
       </Statistic>
       <Statistic Action="Copy">
@@ -38,7 +38,7 @@
           <IdeaActionID>$Copy</IdeaActionID>
           <ShortCut>'⌘C'</ShortCut>
           <Description>Copy</Description>
-          <Count>59</Count>
+          <Count>62</Count>
         </Item>
       </Statistic>
       <Statistic Action="Copy Relative Path">
@@ -246,7 +246,7 @@
           <IdeaActionID>$Delete</IdeaActionID>
           <ShortCut>'⌦' or '⌫' or '⌘⌫'</ShortCut>
           <Description>Delete...</Description>
-          <Count>186</Count>
+          <Count>189</Count>
         </Item>
       </Statistic>
       <Statistic Action="Enter Full Screen">
@@ -286,7 +286,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>GoTo</Description>
-          <Count>976</Count>
+          <Count>978</Count>
         </Item>
       </Statistic>
       <Statistic Action="Messages">
@@ -294,7 +294,7 @@
           <IdeaActionID>ActivateMessagesToolWindow</IdeaActionID>
           <ShortCut>'⌘0'</ShortCut>
           <Description>Messages</Description>
-          <Count>13</Count>
+          <Count>14</Count>
         </Item>
       </Statistic>
       <Statistic Action="Optimize Imports">
@@ -310,7 +310,7 @@
           <IdeaActionID>$Paste</IdeaActionID>
           <ShortCut>'⌘V'</ShortCut>
           <Description>Paste</Description>
-          <Count>59</Count>
+          <Count>62</Count>
         </Item>
       </Statistic>
       <Statistic Action="Project">
@@ -942,7 +942,7 @@
           <IdeaActionID>ActivateRunToolWindow</IdeaActionID>
           <ShortCut>'⌘4'</ShortCut>
           <Description>Run</Description>
-          <Count>69</Count>
+          <Count>70</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'AddRuleSpec.RewlRule...'">
@@ -966,7 +966,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run 'AddRuleToAlbumSpec.w...'</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'All Tests'">
@@ -1910,7 +1910,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'⌘9' or '⇧⌘9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>767</Count>
+          <Count>770</Count>
         </Item>
       </Statistic>
     </option>
