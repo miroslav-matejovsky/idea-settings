@@ -286,7 +286,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>GoTo</Description>
-          <Count>971</Count>
+          <Count>972</Count>
         </Item>
       </Statistic>
       <Statistic Action="Messages">
@@ -951,6 +951,14 @@
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run 'AddRuleSpec.RewlRule...'</Description>
           <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'AddRuleToAlbumSpec.w...'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'AddRuleToAlbumSpec.w...'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'All Tests'">
@@ -1862,7 +1870,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'⌥F12'</ShortCut>
           <Description>Terminal</Description>
-          <Count>637</Count>
+          <Count>638</Count>
         </Item>
       </Statistic>
       <Statistic Action="Test">
