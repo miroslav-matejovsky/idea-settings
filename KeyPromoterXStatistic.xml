@@ -286,7 +286,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>GoTo</Description>
-          <Count>999</Count>
+          <Count>1005</Count>
         </Item>
       </Statistic>
       <Statistic Action="Messages">
@@ -942,7 +942,7 @@
           <IdeaActionID>ChangesView.Revert</IdeaActionID>
           <ShortCut>'⌥⌘Z'</ShortCut>
           <Description>Revert...</Description>
-          <Count>80</Count>
+          <Count>82</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run">
@@ -966,7 +966,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run 'AddRuleToAlbumSpec'</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'AddRuleToAlbumSpec.w...'">
@@ -974,7 +974,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run 'AddRuleToAlbumSpec.w...'</Description>
-          <Count>2</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'All Tests'">
@@ -1910,7 +1910,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'⌥F12'</ShortCut>
           <Description>Terminal</Description>
-          <Count>664</Count>
+          <Count>665</Count>
         </Item>
       </Statistic>
       <Statistic Action="Test">
