@@ -286,7 +286,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>GoTo</Description>
-          <Count>996</Count>
+          <Count>999</Count>
         </Item>
       </Statistic>
       <Statistic Action="Messages">
@@ -1561,6 +1561,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'thatListOfRedempti...()'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'thatListOfRedempti...()'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'thatMerchantsIdsAr...()'">
         <Item>
           <IdeaActionID>RunClass</IdeaActionID>
@@ -1655,6 +1663,14 @@
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run 'thatReportTypeWith...()'</Description>
           <Count>4</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'thatSubcategoriesC...()'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'thatSubcategoriesC...()'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'thatTransactionCan...()'">
@@ -1894,7 +1910,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'⌥F12'</ShortCut>
           <Description>Terminal</Description>
-          <Count>661</Count>
+          <Count>664</Count>
         </Item>
       </Statistic>
       <Statistic Action="Test">
