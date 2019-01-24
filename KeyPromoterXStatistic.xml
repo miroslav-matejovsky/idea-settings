@@ -246,7 +246,7 @@
           <IdeaActionID>$Delete</IdeaActionID>
           <ShortCut>'⌦' or '⌫' or '⌘⌫'</ShortCut>
           <Description>Delete...</Description>
-          <Count>205</Count>
+          <Count>206</Count>
         </Item>
       </Statistic>
       <Statistic Action="Enter Full Screen">
@@ -942,7 +942,7 @@
           <IdeaActionID>ChangesView.Revert</IdeaActionID>
           <ShortCut>'⌥⌘Z'</ShortCut>
           <Description>Revert...</Description>
-          <Count>85</Count>
+          <Count>86</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run">
@@ -1910,7 +1910,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'⌥F12'</ShortCut>
           <Description>Terminal</Description>
-          <Count>695</Count>
+          <Count>698</Count>
         </Item>
       </Statistic>
       <Statistic Action="Test">
@@ -1942,7 +1942,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'⌘9' or '⇧⌘9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>828</Count>
+          <Count>829</Count>
         </Item>
       </Statistic>
     </option>
