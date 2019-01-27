@@ -30,7 +30,7 @@
           <IdeaActionID>CheckinProject</IdeaActionID>
           <ShortCut>'⌘K'</ShortCut>
           <Description>Commit...</Description>
-          <Count>304</Count>
+          <Count>305</Count>
         </Item>
       </Statistic>
       <Statistic Action="Copy">
@@ -1942,7 +1942,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'⌘9' or '⇧⌘9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>875</Count>
+          <Count>876</Count>
         </Item>
       </Statistic>
     </option>
