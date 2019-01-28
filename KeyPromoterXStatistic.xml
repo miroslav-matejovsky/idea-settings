@@ -30,7 +30,7 @@
           <IdeaActionID>CheckinProject</IdeaActionID>
           <ShortCut>'⌘K'</ShortCut>
           <Description>Commit...</Description>
-          <Count>311</Count>
+          <Count>312</Count>
         </Item>
       </Statistic>
       <Statistic Action="Copy">
@@ -286,7 +286,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>GoTo</Description>
-          <Count>1135</Count>
+          <Count>1141</Count>
         </Item>
       </Statistic>
       <Statistic Action="Messages">
@@ -761,6 +761,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'RuleFactJsonFormatSpec'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'RuleFactJsonFormatSpec'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'ScalaTests in 'domain''">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -1222,6 +1230,22 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run 'RuleBookPoc'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'RuleFactJsonFormatSp...'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'RuleFactJsonFormatSp...'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'RuleFactJsonFormatSpec'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'RuleFactJsonFormatSpec'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
@@ -1942,7 +1966,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'⌘9' or '⇧⌘9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>891</Count>
+          <Count>894</Count>
         </Item>
       </Statistic>
     </option>
