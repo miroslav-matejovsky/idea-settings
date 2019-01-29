@@ -294,7 +294,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>GoTo</Description>
-          <Count>1180</Count>
+          <Count>1184</Count>
         </Item>
       </Statistic>
       <Statistic Action="Messages">
@@ -631,6 +631,22 @@
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'FullFeatureSpecSuite'</Description>
           <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'IlnMessageConsumerFeatureSpec'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'IlnMessageConsumerFeatureSpec'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'IlnMessageConsumerFeatureSpec.Feature: ILN message processing Scenario: Received ILN message (UserStateChange) should be persisted and published to output topic'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'IlnMessageConsumerFeatureSpec.Feature: ILN message processing Scenario: Received ILN message (UserStateChange) should be persisted and published to output topic'</Description>
+          <Count>6</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'JooqBillingTransactionCreatePointsRedeemedTest.thatPointsRedeemedWithSameIdIsNotStoredAgainAndReturnSuccess'">
@@ -1182,7 +1198,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run 'IlnMessageConsumerFe...'</Description>
-          <Count>1</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'ItemServiceImplInteg...'">
