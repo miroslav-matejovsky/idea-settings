@@ -30,7 +30,7 @@
           <IdeaActionID>CheckinProject</IdeaActionID>
           <ShortCut>'⌘K'</ShortCut>
           <Description>Commit...</Description>
-          <Count>312</Count>
+          <Count>313</Count>
         </Item>
       </Statistic>
       <Statistic Action="Copy">
@@ -78,6 +78,14 @@
           <IdeaActionID>DebugClass</IdeaActionID>
           <ShortCut>'⌃⇧D'</ShortCut>
           <Description>Debug 'ApiDocumentationForReportCreate'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Debug 'CustomerIlnMessagesE...'">
+        <Item>
+          <IdeaActionID>DebugClass</IdeaActionID>
+          <ShortCut>'⌃⇧D'</ShortCut>
+          <Description>Debug 'CustomerIlnMessagesE...'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
@@ -246,7 +254,7 @@
           <IdeaActionID>$Delete</IdeaActionID>
           <ShortCut>'⌦' or '⌫' or '⌘⌫'</ShortCut>
           <Description>Delete...</Description>
-          <Count>240</Count>
+          <Count>241</Count>
         </Item>
       </Statistic>
       <Statistic Action="Enter Full Screen">
@@ -262,7 +270,7 @@
           <IdeaActionID>EvaluateExpression</IdeaActionID>
           <ShortCut>'⌥F8'</ShortCut>
           <Description>Evaluate Expression...</Description>
-          <Count>23</Count>
+          <Count>26</Count>
         </Item>
       </Statistic>
       <Statistic Action="Exit Full Screen">
@@ -286,7 +294,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>GoTo</Description>
-          <Count>1150</Count>
+          <Count>1170</Count>
         </Item>
       </Statistic>
       <Statistic Action="Messages">
@@ -454,6 +462,22 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'CreateFeeModelFeatureTest.thatFeeModelCanBeCreatedWithValidUntilInPast'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'CustomerIlnMessagesEntitySpec'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'CustomerIlnMessagesEntitySpec'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'CustomerIlnMessagesEntitySpec.Customer ILN messages entity must handle StoreMessage without duplicates'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'CustomerIlnMessagesEntitySpec.Customer ILN messages entity must handle StoreMessage without duplicates'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
@@ -750,7 +774,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'Rerun Failed Tests'</Description>
-          <Count>4</Count>
+          <Count>8</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'ReschedulingTest.that_task_can_be_rescheduled'">
@@ -942,7 +966,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'⌥⌘R' or 'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>79</Count>
+          <Count>82</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -1015,6 +1039,14 @@
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run 'CustomerAdjustPointsByInternalIdFeatureTest'</Description>
           <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'CustomerIlnMessagesE...'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'CustomerIlnMessagesE...'</Description>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'CustomerTransactionL...'">
@@ -1142,6 +1174,14 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run 'FullFeatureSpecSuite'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'IlnMessageConsumerFe...'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'IlnMessageConsumerFe...'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
@@ -1950,7 +1990,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌘F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>74</Count>
+          <Count>79</Count>
         </Item>
       </Statistic>
       <Statistic Action="Unshelve...">
@@ -1966,7 +2006,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'⌘9' or '⇧⌘9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>895</Count>
+          <Count>896</Count>
         </Item>
       </Statistic>
     </option>
