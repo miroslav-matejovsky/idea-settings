@@ -81,6 +81,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'CustomerIlnMessagesC...'">
+        <Item>
+          <IdeaActionID>DebugClass</IdeaActionID>
+          <ShortCut>'⌃⇧D'</ShortCut>
+          <Description>Debug 'CustomerIlnMessagesC...'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'CustomerIlnMessagesE...'">
         <Item>
           <IdeaActionID>DebugClass</IdeaActionID>
@@ -294,7 +302,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>GoTo</Description>
-          <Count>1218</Count>
+          <Count>1219</Count>
         </Item>
       </Statistic>
       <Statistic Action="Messages">
@@ -463,6 +471,14 @@
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'CreateFeeModelFeatureTest.thatFeeModelCanBeCreatedWithValidUntilInPast'</Description>
           <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'CustomerIlnMessagesConsumerSpec.Feature: Processing customer ILN messages Scenario: Rule exists so consequences are produced'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'CustomerIlnMessagesConsumerSpec.Feature: Processing customer ILN messages Scenario: Rule exists so consequences are produced'</Description>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'CustomerIlnMessagesEntitySpec'">
@@ -1014,7 +1030,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'⌥⌘R' or 'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>82</Count>
+          <Count>83</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -1094,7 +1110,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run 'CustomerIlnMessagesC...'</Description>
-          <Count>4</Count>
+          <Count>7</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'CustomerIlnMessagesE...'">
@@ -1929,6 +1945,14 @@
           <Count>31</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'CustomerIlnMessagesConsumerSpec.Feature: Processing customer ILN messages Scenario: Rule exists so consequences are produced'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'CustomerIlnMessagesConsumerSpec.Feature: Processing customer ILN messages Scenario: Rule exists so consequences are produced'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'DividerSpec'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
@@ -2078,7 +2102,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌘F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>79</Count>
+          <Count>80</Count>
         </Item>
       </Statistic>
       <Statistic Action="Unshelve...">
@@ -2094,7 +2118,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'⌘9' or '⇧⌘9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>930</Count>
+          <Count>932</Count>
         </Item>
       </Statistic>
     </option>
