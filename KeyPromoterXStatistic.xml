@@ -30,7 +30,7 @@
           <IdeaActionID>CheckinProject</IdeaActionID>
           <ShortCut>'⌘K'</ShortCut>
           <Description>Commit...</Description>
-          <Count>319</Count>
+          <Count>320</Count>
         </Item>
       </Statistic>
       <Statistic Action="Copy">
@@ -254,7 +254,7 @@
           <IdeaActionID>$Delete</IdeaActionID>
           <ShortCut>'⌦' or '⌫' or '⌘⌫'</ShortCut>
           <Description>Delete...</Description>
-          <Count>253</Count>
+          <Count>254</Count>
         </Item>
       </Statistic>
       <Statistic Action="Enter Full Screen">
@@ -294,7 +294,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>GoTo</Description>
-          <Count>1205</Count>
+          <Count>1206</Count>
         </Item>
       </Statistic>
       <Statistic Action="Messages">
@@ -302,7 +302,7 @@
           <IdeaActionID>ActivateMessagesToolWindow</IdeaActionID>
           <ShortCut>'⌘0'</ShortCut>
           <Description>Messages</Description>
-          <Count>14</Count>
+          <Count>15</Count>
         </Item>
       </Statistic>
       <Statistic Action="Optimize Imports">
@@ -529,6 +529,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'EasyRulesRuleEngineSpec'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'EasyRulesRuleEngineSpec'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'EndOfDayReportFeatureTest'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -615,6 +623,14 @@
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'ExternalCustomerInfoServiceSpec.The RegistrarService should return first transaction timestamp from iln message'</Description>
           <Count>8</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'FireRulesSpec'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'FireRulesSpec'</Description>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'FlatFileReportGeneratorFilteringFeatureSpec.that_filter_date_can_be_filtered_by_date_to'">
@@ -806,6 +822,14 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'ReschedulingTest.that_task_can_be_rescheduled'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'RuleBookRuleEngineSpec'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'RuleBookRuleEngineSpec'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
@@ -1006,7 +1030,7 @@
           <IdeaActionID>ActivateRunToolWindow</IdeaActionID>
           <ShortCut>'⌘4'</ShortCut>
           <Description>Run</Description>
-          <Count>70</Count>
+          <Count>72</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'AddRuleSpec.RewlRule...'">
@@ -1121,6 +1145,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'EasyRulesRuleEngineS...'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'EasyRulesRuleEngineS...'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'EndOfDayReportFeatureTest'">
         <Item>
           <IdeaActionID>RunClass</IdeaActionID>
@@ -1191,6 +1223,14 @@
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run 'ExternalCustomerInfo...'</Description>
           <Count>11</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'FireRulesSpec'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'FireRulesSpec'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'FullFeatureSpecSuite'">
@@ -1302,6 +1342,14 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run 'RuleBookPoc'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'RuleBookRuleEngineSpec'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'RuleBookRuleEngineSpec'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
@@ -1870,7 +1918,7 @@
           <IdeaActionID>Diff.ShowDiff</IdeaActionID>
           <ShortCut>'⌘D'</ShortCut>
           <Description>Show Diff</Description>
-          <Count>29</Count>
+          <Count>31</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'DividerSpec'">
@@ -2038,7 +2086,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'⌘9' or '⇧⌘9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>911</Count>
+          <Count>916</Count>
         </Item>
       </Statistic>
     </option>
