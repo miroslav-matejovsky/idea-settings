@@ -2134,7 +2134,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'⌘9' or '⇧⌘9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>934</Count>
+          <Count>935</Count>
         </Item>
       </Statistic>
     </option>
