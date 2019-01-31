@@ -1417,6 +1417,14 @@
           <Count>5</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'LagomSpringApplicati...'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'LagomSpringApplicati...'</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'PblTransactionsConsu...'">
         <Item>
           <IdeaActionID>RunClass</IdeaActionID>
