@@ -30,7 +30,7 @@
           <IdeaActionID>CheckinProject</IdeaActionID>
           <ShortCut>'⌘K'</ShortCut>
           <Description>Commit...</Description>
-          <Count>345</Count>
+          <Count>347</Count>
         </Item>
       </Statistic>
       <Statistic Action="Copy">
@@ -2222,7 +2222,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'⌥F12'</ShortCut>
           <Description>Terminal</Description>
-          <Count>770</Count>
+          <Count>771</Count>
         </Item>
       </Statistic>
       <Statistic Action="Test">
@@ -2254,7 +2254,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'⌘9' or '⇧⌘9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>984</Count>
+          <Count>986</Count>
         </Item>
       </Statistic>
     </option>
