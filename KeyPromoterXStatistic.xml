@@ -318,7 +318,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>GoTo</Description>
-          <Count>1248</Count>
+          <Count>1249</Count>
         </Item>
       </Statistic>
       <Statistic Action="Messages">
@@ -782,7 +782,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'LagomSpringApplication'</Description>
-          <Count>1</Count>
+          <Count>5</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'MerchantBillingReportsServiceTest.thatCorrectFailureIsReturnedForNoData'">
@@ -1423,6 +1423,14 @@
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run 'JsonFormatSpec.shoul...'</Description>
           <Count>5</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'LagomSpringApp....main()'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'LagomSpringApp....main()'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'LagomSpringApplicati...'">
@@ -2111,6 +2119,14 @@
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'JooqReportContentTest.thatReportContentCannotBeCreatedTwiceForSameReport'</Description>
           <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'LagomSpringApplication'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'LagomSpringApplication'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'MerchantBillingReportsServiceTest.thatCorrectFailureIsReturnedForNoData'">
