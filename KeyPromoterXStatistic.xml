@@ -2254,7 +2254,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'⌥F12'</ShortCut>
           <Description>Terminal</Description>
-          <Count>800</Count>
+          <Count>801</Count>
         </Item>
       </Statistic>
       <Statistic Action="Test">
