@@ -318,7 +318,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>GoTo</Description>
-          <Count>1257</Count>
+          <Count>1259</Count>
         </Item>
       </Statistic>
       <Statistic Action="Messages">
@@ -793,6 +793,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'NewCustomerSignUpCampaignProcessingFeatureTest.customerCanBeMatchedWithSignUpCampaignByHisCountry'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'NewCustomerSignUpCampaignProcessingFeatureTest.customerCanBeMatchedWithSignUpCampaignByHisCountry'</Description>
+          <Count>4</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'PblMessageDaoTest.thatPblMessageIsStored'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -1094,7 +1102,7 @@
           <IdeaActionID>ActivateRunToolWindow</IdeaActionID>
           <ShortCut>'⌘4'</ShortCut>
           <Description>Run</Description>
-          <Count>74</Count>
+          <Count>75</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'AddRuleSpec.RewlRule...'">
@@ -1673,6 +1681,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'customerCanBeMatch...()'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'customerCanBeMatch...()'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'emptyList()'">
         <Item>
           <IdeaActionID>RunClass</IdeaActionID>
@@ -1750,7 +1766,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run 'thatActivePointsCa...()'</Description>
-          <Count>2</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'thatBrandListCanBe...()'">
@@ -2222,7 +2238,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'⌥F12'</ShortCut>
           <Description>Terminal</Description>
-          <Count>784</Count>
+          <Count>788</Count>
         </Item>
       </Statistic>
       <Statistic Action="Test">
@@ -2254,7 +2270,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'⌘9' or '⇧⌘9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>1002</Count>
+          <Count>1003</Count>
         </Item>
       </Statistic>
     </option>
