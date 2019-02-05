@@ -30,7 +30,7 @@
           <IdeaActionID>CheckinProject</IdeaActionID>
           <ShortCut>'⌘K'</ShortCut>
           <Description>Commit...</Description>
-          <Count>351</Count>
+          <Count>352</Count>
         </Item>
       </Statistic>
       <Statistic Action="Copy">
@@ -278,7 +278,7 @@
           <IdeaActionID>$Delete</IdeaActionID>
           <ShortCut>'⌦' or '⌫' or '⌘⌫'</ShortCut>
           <Description>Delete...</Description>
-          <Count>268</Count>
+          <Count>279</Count>
         </Item>
       </Statistic>
       <Statistic Action="Enter Full Screen">
@@ -318,7 +318,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>GoTo</Description>
-          <Count>1268</Count>
+          <Count>1284</Count>
         </Item>
       </Statistic>
       <Statistic Action="Messages">
@@ -1102,7 +1102,7 @@
           <IdeaActionID>ChangesView.Revert</IdeaActionID>
           <ShortCut>'⌥⌘Z'</ShortCut>
           <Description>Revert...</Description>
-          <Count>106</Count>
+          <Count>107</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run">
@@ -2102,7 +2102,7 @@
           <IdeaActionID>Diff.ShowDiff</IdeaActionID>
           <ShortCut>'⌘D'</ShortCut>
           <Description>Show Diff</Description>
-          <Count>32</Count>
+          <Count>33</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'CustomerIlnMessagesConsumerSpec.Feature: Processing customer ILN messages Scenario: Rule exists so consequences are produced'">
@@ -2254,7 +2254,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'⌥F12'</ShortCut>
           <Description>Terminal</Description>
-          <Count>801</Count>
+          <Count>808</Count>
         </Item>
       </Statistic>
       <Statistic Action="Test">
@@ -2286,7 +2286,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'⌘9' or '⇧⌘9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>1010</Count>
+          <Count>1017</Count>
         </Item>
       </Statistic>
     </option>
