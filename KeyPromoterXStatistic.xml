@@ -318,7 +318,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>GoTo</Description>
-          <Count>1260</Count>
+          <Count>1264</Count>
         </Item>
       </Statistic>
       <Statistic Action="Messages">
@@ -1929,6 +1929,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'thatPointTransacti...()'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'thatPointTransacti...()'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'thatPointsCanBeAdd...()'">
         <Item>
           <IdeaActionID>RunClass</IdeaActionID>
@@ -2238,7 +2246,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'⌥F12'</ShortCut>
           <Description>Terminal</Description>
-          <Count>793</Count>
+          <Count>795</Count>
         </Item>
       </Statistic>
       <Statistic Action="Test">
@@ -2270,7 +2278,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'⌘9' or '⇧⌘9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>1006</Count>
+          <Count>1007</Count>
         </Item>
       </Statistic>
     </option>
