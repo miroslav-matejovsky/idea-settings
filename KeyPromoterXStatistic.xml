@@ -30,7 +30,7 @@
           <IdeaActionID>CheckinProject</IdeaActionID>
           <ShortCut>'⌘K'</ShortCut>
           <Description>Commit...</Description>
-          <Count>350</Count>
+          <Count>351</Count>
         </Item>
       </Statistic>
       <Statistic Action="Copy">
@@ -318,7 +318,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>GoTo</Description>
-          <Count>1264</Count>
+          <Count>1268</Count>
         </Item>
       </Statistic>
       <Statistic Action="Messages">
@@ -1033,6 +1033,14 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'java in app_test'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'java in app_test'</Description>
+          <Count>4</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'java in persistence_test'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -1094,7 +1102,7 @@
           <IdeaActionID>ChangesView.Revert</IdeaActionID>
           <ShortCut>'⌥⌘Z'</ShortCut>
           <Description>Revert...</Description>
-          <Count>105</Count>
+          <Count>106</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run">
@@ -1102,7 +1110,7 @@
           <IdeaActionID>ActivateRunToolWindow</IdeaActionID>
           <ShortCut>'⌘4'</ShortCut>
           <Description>Run</Description>
-          <Count>75</Count>
+          <Count>79</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'AddRuleSpec.RewlRule...'">
@@ -1598,7 +1606,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run 'Tests in 'java''</Description>
-          <Count>6</Count>
+          <Count>7</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'Tests in 'persistence''">
@@ -2246,7 +2254,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'⌥F12'</ShortCut>
           <Description>Terminal</Description>
-          <Count>795</Count>
+          <Count>800</Count>
         </Item>
       </Statistic>
       <Statistic Action="Test">
@@ -2278,7 +2286,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'⌘9' or '⇧⌘9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>1007</Count>
+          <Count>1010</Count>
         </Item>
       </Statistic>
     </option>
