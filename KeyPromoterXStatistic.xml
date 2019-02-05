@@ -2222,7 +2222,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'⌥F12'</ShortCut>
           <Description>Terminal</Description>
-          <Count>775</Count>
+          <Count>777</Count>
         </Item>
       </Statistic>
       <Statistic Action="Test">
@@ -2254,7 +2254,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'⌘9' or '⇧⌘9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>994</Count>
+          <Count>995</Count>
         </Item>
       </Statistic>
     </option>
