@@ -30,7 +30,7 @@
           <IdeaActionID>CheckinProject</IdeaActionID>
           <ShortCut>'⌘K'</ShortCut>
           <Description>Commit...</Description>
-          <Count>357</Count>
+          <Count>358</Count>
         </Item>
       </Statistic>
       <Statistic Action="Copy">
@@ -249,6 +249,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'thatRuleEngineConf...()'">
+        <Item>
+          <IdeaActionID>DebugClass</IdeaActionID>
+          <ShortCut>'⌃⇧D'</ShortCut>
+          <Description>Debug 'thatRuleEngineConf...()'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'that_xls_can_be_ob...()'">
         <Item>
           <IdeaActionID>DebugClass</IdeaActionID>
@@ -318,7 +326,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>GoTo</Description>
-          <Count>1306</Count>
+          <Count>1307</Count>
         </Item>
       </Statistic>
       <Statistic Action="Messages">
@@ -551,6 +559,14 @@
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'DividerSpec.Divider when dividing 3 by 1 should return (3)'</Description>
           <Count>6</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'DynamicCampaignCreateFeatureSpec.thatSignUpCampaignCanBeCreated'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'DynamicCampaignCreateFeatureSpec.thatSignUpCampaignCanBeCreated'</Description>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'EasyRuleSupportSpec'">
@@ -1110,7 +1126,7 @@
           <IdeaActionID>ActivateRunToolWindow</IdeaActionID>
           <ShortCut>'⌘4'</ShortCut>
           <Description>Run</Description>
-          <Count>79</Count>
+          <Count>80</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'AddRuleSpec.RewlRule...'">
@@ -1841,6 +1857,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'thatDynamicCampaig...()'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'thatDynamicCampaig...()'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'thatExpiredPointsB...()'">
         <Item>
           <IdeaActionID>RunClass</IdeaActionID>
@@ -1999,6 +2023,22 @@
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run 'thatReportTypeWith...()'</Description>
           <Count>4</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'thatRuleEngineConf...()'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'thatRuleEngineConf...()'</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'thatSignUpCampaign...()'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'thatSignUpCampaign...()'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'thatSubcategoriesC...()'">
@@ -2262,7 +2302,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'⌥F12'</ShortCut>
           <Description>Terminal</Description>
-          <Count>828</Count>
+          <Count>832</Count>
         </Item>
       </Statistic>
       <Statistic Action="Test">
@@ -2294,7 +2334,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'⌘9' or '⇧⌘9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>1030</Count>
+          <Count>1038</Count>
         </Item>
       </Statistic>
     </option>
