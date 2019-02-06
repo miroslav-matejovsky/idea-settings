@@ -326,7 +326,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>GoTo</Description>
-          <Count>1307</Count>
+          <Count>1310</Count>
         </Item>
       </Statistic>
       <Statistic Action="Messages">
@@ -566,7 +566,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'DynamicCampaignCreateFeatureSpec.thatSignUpCampaignCanBeCreated'</Description>
-          <Count>2</Count>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'EasyRuleSupportSpec'">
@@ -2038,7 +2038,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run 'thatSignUpCampaign...()'</Description>
-          <Count>1</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'thatSubcategoriesC...()'">
@@ -2302,7 +2302,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'⌥F12'</ShortCut>
           <Description>Terminal</Description>
-          <Count>832</Count>
+          <Count>835</Count>
         </Item>
       </Statistic>
       <Statistic Action="Test">
@@ -2334,7 +2334,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'⌘9' or '⇧⌘9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>1038</Count>
+          <Count>1043</Count>
         </Item>
       </Statistic>
     </option>
