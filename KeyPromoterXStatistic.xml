@@ -1702,7 +1702,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run 'dynamicCampaignSig...()'</Description>
-          <Count>6</Count>
+          <Count>8</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'emptyList()'">
@@ -2262,7 +2262,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'⌥F12'</ShortCut>
           <Description>Terminal</Description>
-          <Count>827</Count>
+          <Count>828</Count>
         </Item>
       </Statistic>
       <Statistic Action="Test">
