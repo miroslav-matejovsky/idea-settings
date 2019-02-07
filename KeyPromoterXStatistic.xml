@@ -342,7 +342,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>GoTo</Description>
-          <Count>1343</Count>
+          <Count>1344</Count>
         </Item>
       </Statistic>
       <Statistic Action="Messages">
@@ -510,6 +510,14 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'CampaignRuleServiceImplSpec'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'CampaignRuleServiceImplSpec.CampaignRuleService should provide error if existing rule does not contain params'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'CampaignRuleServiceImplSpec.CampaignRuleService should provide error if existing rule does not contain params'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
@@ -1214,7 +1222,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run 'CampaignRuleServiceI...'</Description>
-          <Count>6</Count>
+          <Count>7</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'ConditionJsonFormatS...'">
@@ -2358,7 +2366,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'⌥F12'</ShortCut>
           <Description>Terminal</Description>
-          <Count>865</Count>
+          <Count>866</Count>
         </Item>
       </Statistic>
       <Statistic Action="Test">
