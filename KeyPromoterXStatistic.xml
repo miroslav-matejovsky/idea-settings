@@ -294,7 +294,7 @@
           <IdeaActionID>$Delete</IdeaActionID>
           <ShortCut>'⌦' or '⌫' or '⌘⌫'</ShortCut>
           <Description>Delete...</Description>
-          <Count>287</Count>
+          <Count>289</Count>
         </Item>
       </Statistic>
       <Statistic Action="Enter Full Screen">
@@ -334,7 +334,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>GoTo</Description>
-          <Count>1333</Count>
+          <Count>1334</Count>
         </Item>
       </Statistic>
       <Statistic Action="Messages">
