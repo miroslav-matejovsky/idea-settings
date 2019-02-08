@@ -302,7 +302,7 @@
           <IdeaActionID>$Delete</IdeaActionID>
           <ShortCut>'⌦' or '⌫' or '⌘⌫'</ShortCut>
           <Description>Delete...</Description>
-          <Count>290</Count>
+          <Count>291</Count>
         </Item>
       </Statistic>
       <Statistic Action="Enter Full Screen">
@@ -566,6 +566,14 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'CustomerPointsListingByExternalIdFeatureTest.thatCustomerPointsCanBeRetrievedSortedByExpireAt'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'CustomerServiceTest.creation'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'CustomerServiceTest.creation'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
@@ -1769,6 +1777,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'creation()'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'creation()'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'customerCanBeMatch...()'">
         <Item>
           <IdeaActionID>RunClass</IdeaActionID>
@@ -2366,7 +2382,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'⌥F12'</ShortCut>
           <Description>Terminal</Description>
-          <Count>871</Count>
+          <Count>872</Count>
         </Item>
       </Statistic>
       <Statistic Action="Test">
@@ -2374,7 +2390,7 @@
           <IdeaActionID>GotoTest</IdeaActionID>
           <ShortCut>'⇧⌘T'</ShortCut>
           <Description>Test</Description>
-          <Count>9</Count>
+          <Count>10</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Line Breakpoint">
