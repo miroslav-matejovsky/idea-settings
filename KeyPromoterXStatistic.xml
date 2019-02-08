@@ -342,7 +342,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>GoTo</Description>
-          <Count>1348</Count>
+          <Count>1354</Count>
         </Item>
       </Statistic>
       <Statistic Action="Messages">
@@ -2230,7 +2230,7 @@
           <IdeaActionID>Diff.ShowDiff</IdeaActionID>
           <ShortCut>'⌘D'</ShortCut>
           <Description>Show Diff</Description>
-          <Count>36</Count>
+          <Count>37</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'CustomerIlnMessagesConsumerSpec.Feature: Processing customer ILN messages Scenario: Rule exists so consequences are produced'">
@@ -2382,7 +2382,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'⌥F12'</ShortCut>
           <Description>Terminal</Description>
-          <Count>872</Count>
+          <Count>873</Count>
         </Item>
       </Statistic>
       <Statistic Action="Test">
@@ -2414,7 +2414,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'⌘9' or '⇧⌘9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>1073</Count>
+          <Count>1075</Count>
         </Item>
       </Statistic>
     </option>
