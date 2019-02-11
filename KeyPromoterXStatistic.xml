@@ -342,7 +342,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>GoTo</Description>
-          <Count>1357</Count>
+          <Count>1358</Count>
         </Item>
       </Statistic>
       <Statistic Action="Messages">
@@ -1031,6 +1031,14 @@
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'SuccessfulSendFeature.thatMessageCanBeReceived'</Description>
           <Count>8</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'TestWithOracle.testConnection'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'TestWithOracle.testConnection'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'TransactionPointsReducedManuallyFeatureTest'">
@@ -1879,6 +1887,14 @@
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run 'sk.bsmk.hi.kafka.Pro...'</Description>
           <Count>4</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'testConnection()'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'testConnection()'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'thatActivePointsCa...()'">
