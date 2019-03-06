@@ -6,7 +6,7 @@
           <IdeaActionID>Git.Add</IdeaActionID>
           <ShortCut>'⌥⌘A'</ShortCut>
           <Description>Add</Description>
-          <Count>2</Count>
+          <Count>6</Count>
         </Item>
       </Statistic>
       <Statistic Action="Add to VCS">
@@ -14,7 +14,7 @@
           <IdeaActionID>ChangesView.AddUnversioned</IdeaActionID>
           <ShortCut>'⌥⌘A'</ShortCut>
           <Description>Add to VCS</Description>
-          <Count>1</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Commit Message History">
@@ -22,7 +22,7 @@
           <IdeaActionID>Vcs.ShowMessageHistory</IdeaActionID>
           <ShortCut>'⌃M' or '⌘E'</ShortCut>
           <Description>Commit Message History</Description>
-          <Count>6</Count>
+          <Count>10</Count>
         </Item>
       </Statistic>
       <Statistic Action="Commit...">
@@ -30,7 +30,7 @@
           <IdeaActionID>CheckinProject</IdeaActionID>
           <ShortCut>'⌘K'</ShortCut>
           <Description>Commit...</Description>
-          <Count>214</Count>
+          <Count>368</Count>
         </Item>
       </Statistic>
       <Statistic Action="Copy">
@@ -38,7 +38,7 @@
           <IdeaActionID>$Copy</IdeaActionID>
           <ShortCut>'⌘C'</ShortCut>
           <Description>Copy</Description>
-          <Count>54</Count>
+          <Count>74</Count>
         </Item>
       </Statistic>
       <Statistic Action="Copy Relative Path">
@@ -46,6 +46,14 @@
           <IdeaActionID>CopyReference</IdeaActionID>
           <ShortCut>'⌥⇧⌘C'</ShortCut>
           <Description>Copy Relative Path</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Copy Value">
+        <Item>
+          <IdeaActionID>XDebugger.CopyValue</IdeaActionID>
+          <ShortCut>'⌘C'</ShortCut>
+          <Description>Copy Value</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
@@ -62,7 +70,7 @@
           <IdeaActionID>ActivateDebugToolWindow</IdeaActionID>
           <ShortCut>'⌘5'</ShortCut>
           <Description>Debug</Description>
-          <Count>9</Count>
+          <Count>10</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'ApiDocumentationForReportCreate'">
@@ -70,6 +78,30 @@
           <IdeaActionID>DebugClass</IdeaActionID>
           <ShortCut>'⌃⇧D'</ShortCut>
           <Description>Debug 'ApiDocumentationForReportCreate'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Debug 'CampaignRuleServiceI...'">
+        <Item>
+          <IdeaActionID>DebugClass</IdeaActionID>
+          <ShortCut>'⌃⇧D'</ShortCut>
+          <Description>Debug 'CampaignRuleServiceI...'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Debug 'CustomerIlnMessagesC...'">
+        <Item>
+          <IdeaActionID>DebugClass</IdeaActionID>
+          <ShortCut>'⌃⇧D'</ShortCut>
+          <Description>Debug 'CustomerIlnMessagesC...'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Debug 'CustomerIlnMessagesE...'">
+        <Item>
+          <IdeaActionID>DebugClass</IdeaActionID>
+          <ShortCut>'⌃⇧D'</ShortCut>
+          <Description>Debug 'CustomerIlnMessagesE...'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
@@ -121,6 +153,30 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'RedemptionOfferTransactionsGrpcServiceTest'">
+        <Item>
+          <IdeaActionID>DebugClass</IdeaActionID>
+          <ShortCut>'⌃⇧D'</ShortCut>
+          <Description>Debug 'RedemptionOfferTransactionsGrpcServiceTest'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Debug 'RuleAlbumEntityIdSpe...'">
+        <Item>
+          <IdeaActionID>DebugClass</IdeaActionID>
+          <ShortCut>'⌃⇧D'</ShortCut>
+          <Description>Debug 'RuleAlbumEntityIdSpe...'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Debug 'RuleAlbumEntityIdSpec'">
+        <Item>
+          <IdeaActionID>DebugClass</IdeaActionID>
+          <ShortCut>'⌃⇧D'</ShortCut>
+          <Description>Debug 'RuleAlbumEntityIdSpec'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'StorePointTransactio...'">
         <Item>
           <IdeaActionID>DebugClass</IdeaActionID>
@@ -143,6 +199,14 @@
           <ShortCut>'⌃⇧D'</ShortCut>
           <Description>Debug 'reportMultiCreate()'</Description>
           <Count>4</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Debug 'thatCorrectFailure...()'">
+        <Item>
+          <IdeaActionID>DebugClass</IdeaActionID>
+          <ShortCut>'⌃⇧D'</ShortCut>
+          <Description>Debug 'thatCorrectFailure...()'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'thatErrorIsReturne...()'">
@@ -169,6 +233,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'thatPointsRedeemed...()'">
+        <Item>
+          <IdeaActionID>DebugClass</IdeaActionID>
+          <ShortCut>'⌃⇧D'</ShortCut>
+          <Description>Debug 'thatPointsRedeemed...()'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'thatReportContentC...()'">
         <Item>
           <IdeaActionID>DebugClass</IdeaActionID>
@@ -183,6 +255,22 @@
           <ShortCut>'⌃⇧D'</ShortCut>
           <Description>Debug 'thatReportTypeWith...()'</Description>
           <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Debug 'thatRuleEngineConf...()'">
+        <Item>
+          <IdeaActionID>DebugClass</IdeaActionID>
+          <ShortCut>'⌃⇧D'</ShortCut>
+          <Description>Debug 'thatRuleEngineConf...()'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Debug 'thatSignUpCampaign...()'">
+        <Item>
+          <IdeaActionID>DebugClass</IdeaActionID>
+          <ShortCut>'⌃⇧D'</ShortCut>
+          <Description>Debug 'thatSignUpCampaign...()'</Description>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'that_xls_can_be_ob...()'">
@@ -206,7 +294,7 @@
           <IdeaActionID>$Delete</IdeaActionID>
           <ShortCut>'⌦' or '⌫' or '⌘⌫'</ShortCut>
           <Description>Delete</Description>
-          <Count>15</Count>
+          <Count>22</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -214,7 +302,15 @@
           <IdeaActionID>$Delete</IdeaActionID>
           <ShortCut>'⌦' or '⌫' or '⌘⌫'</ShortCut>
           <Description>Delete...</Description>
-          <Count>145</Count>
+          <Count>293</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Enter Full Screen">
+        <Item>
+          <IdeaActionID>ToggleFullScreen</IdeaActionID>
+          <ShortCut>'⌃⌘F'</ShortCut>
+          <Description>Enter Full Screen</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Evaluate Expression...">
@@ -222,7 +318,15 @@
           <IdeaActionID>EvaluateExpression</IdeaActionID>
           <ShortCut>'⌥F8'</ShortCut>
           <Description>Evaluate Expression...</Description>
-          <Count>20</Count>
+          <Count>34</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Exit Full Screen">
+        <Item>
+          <IdeaActionID>ToggleFullScreen</IdeaActionID>
+          <ShortCut>'⌃⌘F'</ShortCut>
+          <Description>Exit Full Screen</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Find">
@@ -230,7 +334,7 @@
           <IdeaActionID>ActivateFindToolWindow</IdeaActionID>
           <ShortCut>'⌘3'</ShortCut>
           <Description>Find</Description>
-          <Count>6</Count>
+          <Count>7</Count>
         </Item>
       </Statistic>
       <Statistic Action="GoTo">
@@ -238,7 +342,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>GoTo</Description>
-          <Count>872</Count>
+          <Count>1358</Count>
         </Item>
       </Statistic>
       <Statistic Action="Messages">
@@ -246,7 +350,7 @@
           <IdeaActionID>ActivateMessagesToolWindow</IdeaActionID>
           <ShortCut>'⌘0'</ShortCut>
           <Description>Messages</Description>
-          <Count>12</Count>
+          <Count>16</Count>
         </Item>
       </Statistic>
       <Statistic Action="Optimize Imports">
@@ -254,7 +358,7 @@
           <IdeaActionID>OptimizeImports</IdeaActionID>
           <ShortCut>'⌃⌥O'</ShortCut>
           <Description>Optimize Imports</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Paste">
@@ -262,7 +366,7 @@
           <IdeaActionID>$Paste</IdeaActionID>
           <ShortCut>'⌘V'</ShortCut>
           <Description>Paste</Description>
-          <Count>54</Count>
+          <Count>75</Count>
         </Item>
       </Statistic>
       <Statistic Action="Project">
@@ -270,7 +374,7 @@
           <IdeaActionID>ActivateProjectToolWindow</IdeaActionID>
           <ShortCut>'⌘1'</ShortCut>
           <Description>Project</Description>
-          <Count>3</Count>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Push...">
@@ -310,7 +414,7 @@
           <IdeaActionID>RenameElement</IdeaActionID>
           <ShortCut>'⇧F6'</ShortCut>
           <Description>Rename...</Description>
-          <Count>36</Count>
+          <Count>53</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'AddRuleSpec.RewlRulesEntity should process AddRule command with TransactionOverCondition'">
@@ -334,6 +438,14 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'AdjustCustomerPointsGrpcFeatureTest.thatPointsCanBeAdjustedWithGroupId'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'AdministrationApiRedemptionOfferCampaignCreateDocumentation.administrationApiRedemptionOfferCampaignCreate'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'AdministrationApiRedemptionOfferCampaignCreateDocumentation.administrationApiRedemptionOfferCampaignCreate'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
@@ -393,11 +505,75 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'CampaignRuleServiceImplSpec'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'CampaignRuleServiceImplSpec'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'CampaignRuleServiceImplSpec.CampaignRuleService should provide error if existing rule does not contain params'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'CampaignRuleServiceImplSpec.CampaignRuleService should provide error if existing rule does not contain params'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'CampaignRuleServiceImplSpec.CampaignRuleService should store rule for SignUpCampaignParams'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'CampaignRuleServiceImplSpec.CampaignRuleService should store rule for SignUpCampaignParams'</Description>
+          <Count>4</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'CreateFeeModelFeatureTest.thatFeeModelCanBeCreatedWithValidUntilInPast'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'CreateFeeModelFeatureTest.thatFeeModelCanBeCreatedWithValidUntilInPast'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'CustomerIlnMessagesConsumerSpec.Feature: Processing customer ILN messages Scenario: Rule exists so consequences are produced'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'CustomerIlnMessagesConsumerSpec.Feature: Processing customer ILN messages Scenario: Rule exists so consequences are produced'</Description>
+          <Count>7</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'CustomerIlnMessagesEntitySpec'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'CustomerIlnMessagesEntitySpec'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'CustomerIlnMessagesEntitySpec.Customer ILN messages entity must handle StoreMessage without duplicates'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'CustomerIlnMessagesEntitySpec.Customer ILN messages entity must handle StoreMessage without duplicates'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'CustomerPointsListingByExternalIdFeatureTest.thatCustomerPointsCanBeRetrievedSortedByExpireAt'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'CustomerPointsListingByExternalIdFeatureTest.thatCustomerPointsCanBeRetrievedSortedByExpireAt'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'CustomerServiceTest.creation'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'CustomerServiceTest.creation'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
@@ -433,11 +609,35 @@
           <Count>6</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'DynamicCampaignCreateFeatureSpec.thatSignUpCampaignCanBeCreated'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'DynamicCampaignCreateFeatureSpec.thatSignUpCampaignCanBeCreated'</Description>
+          <Count>13</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'DynamicCampaignDetailControllerDocumentation.administrationApiDynamicCampaignDetail'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'DynamicCampaignDetailControllerDocumentation.administrationApiDynamicCampaignDetail'</Description>
+          <Count>4</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'EasyRuleSupportSpec'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'EasyRuleSupportSpec'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'EasyRulesRuleEngineSpec'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'EasyRulesRuleEngineSpec'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
@@ -529,6 +729,22 @@
           <Count>8</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'FireRulesSpec'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'FireRulesSpec'</Description>
+          <Count>5</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'FiredRuleActionsSpec'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'FiredRuleActionsSpec'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'FlatFileReportGeneratorFilteringFeatureSpec.that_filter_date_can_be_filtered_by_date_to'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -537,11 +753,51 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'FullEnd2EndRuleEngineSpec.Feature: Processing customer ILN messages Scenario: Rule exists so consequences are produced'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'FullEnd2EndRuleEngineSpec.Feature: Processing customer ILN messages Scenario: Rule exists so consequences are produced'</Description>
+          <Count>9</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'FullFeatureSpecSuite'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'FullFeatureSpecSuite'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'IlnMessageConsumerFeatureSpec'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'IlnMessageConsumerFeatureSpec'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'IlnMessageConsumerFeatureSpec.Feature: ILN message processing Scenario: Received ILN message (UserStateChange) should be persisted and published to output topic'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'IlnMessageConsumerFeatureSpec.Feature: ILN message processing Scenario: Received ILN message (UserStateChange) should be persisted and published to output topic'</Description>
+          <Count>6</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'IlnMessageConsumerSpec'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'IlnMessageConsumerSpec'</Description>
+          <Count>5</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'JooqBillingTransactionCreatePointsRedeemedTest.thatPointsRedeemedWithSameIdIsNotStoredAgainAndReturnSuccess'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'JooqBillingTransactionCreatePointsRedeemedTest.thatPointsRedeemedWithSameIdIsNotStoredAgainAndReturnSuccess'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
@@ -593,6 +849,30 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'LagomSpringApplication'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'LagomSpringApplication'</Description>
+          <Count>5</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'MerchantBillingReportsServiceTest.thatCorrectFailureIsReturnedForNoData'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'MerchantBillingReportsServiceTest.thatCorrectFailureIsReturnedForNoData'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'NewCustomerSignUpCampaignProcessingFeatureTest.customerCanBeMatchedWithSignUpCampaignByHisCountry'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'NewCustomerSignUpCampaignProcessingFeatureTest.customerCanBeMatchedWithSignUpCampaignByHisCountry'</Description>
+          <Count>4</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'PblMessageDaoTest.thatPblMessageIsStored'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -622,7 +902,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'PointsGrantedPblEventMappingTest.that_POINTS_GRANTED_MANUALLY_PBL_EVENT_mapped_correctly'</Description>
-          <Count>3</Count>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'PointsServiceRedeemMonetaryTransactionTest.thatMethodRedeemMonetaryTransactionWorksCorrectly'">
@@ -630,6 +910,14 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'PointsServiceRedeemMonetaryTransactionTest.thatMethodRedeemMonetaryTransactionWorksCorrectly'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'RedemptionOfferTransactionsGrpcServiceTest.thatVoucherSoldCanBeInsertedWithSameId'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'RedemptionOfferTransactionsGrpcServiceTest.thatVoucherSoldCanBeInsertedWithSameId'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
@@ -662,7 +950,39 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'Rerun Failed Tests'</Description>
-          <Count>4</Count>
+          <Count>8</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'ReschedulingTest.that_task_can_be_rescheduled'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'ReschedulingTest.that_task_can_be_rescheduled'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'RuleBookRuleEngineSpec'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'RuleBookRuleEngineSpec'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'RuleFactJsonFormatSpec'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'RuleFactJsonFormatSpec'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'RuleScopeSpec'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'RuleScopeSpec'</Description>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'ScalaTests in 'domain''">
@@ -713,6 +1033,14 @@
           <Count>8</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'TestWithOracle.testConnection'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'TestWithOracle.testConnection'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'TransactionPointsReducedManuallyFeatureTest'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -745,6 +1073,22 @@
           <Count>8</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'UpdateFeeModelFeatureTest.thatFeeModelCanBeUpdatedWithValidFrom'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'UpdateFeeModelFeatureTest.thatFeeModelCanBeUpdatedWithValidFrom'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'UpdateFeeModelFeatureTest.thatFeeModelCannotBeUpdatedWithValidFromAfterValidUntil'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'UpdateFeeModelFeatureTest.thatFeeModelCannotBeUpdatedWithValidFromAfterValidUntil'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'Year_2018_01Kt (1)'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -767,6 +1111,14 @@
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'api in api_test'</Description>
           <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'java in app_test'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'java in app_test'</Description>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'java in persistence_test'">
@@ -822,7 +1174,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'⌥⌘R' or 'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>70</Count>
+          <Count>100</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -830,7 +1182,7 @@
           <IdeaActionID>ChangesView.Revert</IdeaActionID>
           <ShortCut>'⌥⌘Z'</ShortCut>
           <Description>Revert...</Description>
-          <Count>64</Count>
+          <Count>111</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run">
@@ -838,7 +1190,7 @@
           <IdeaActionID>ActivateRunToolWindow</IdeaActionID>
           <ShortCut>'⌘4'</ShortCut>
           <Description>Run</Description>
-          <Count>67</Count>
+          <Count>82</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'AddRuleSpec.RewlRule...'">
@@ -846,6 +1198,22 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run 'AddRuleSpec.RewlRule...'</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'AddRuleToAlbumSpec'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'AddRuleToAlbumSpec'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'AddRuleToAlbumSpec.w...'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'AddRuleToAlbumSpec.w...'</Description>
           <Count>3</Count>
         </Item>
       </Statistic>
@@ -865,6 +1233,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'CampaignRuleServiceI...'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'CampaignRuleServiceI...'</Description>
+          <Count>7</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'ConditionJsonFormatS...'">
         <Item>
           <IdeaActionID>RunClass</IdeaActionID>
@@ -879,6 +1255,22 @@
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run 'CustomerAdjustPointsByInternalIdFeatureTest'</Description>
           <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'CustomerIlnMessagesC...'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'CustomerIlnMessagesC...'</Description>
+          <Count>8</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'CustomerIlnMessagesE...'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'CustomerIlnMessagesE...'</Description>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'CustomerTransactionL...'">
@@ -926,6 +1318,14 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run 'EasyRuleSupportSpec'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'EasyRulesRuleEngineS...'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'EasyRulesRuleEngineS...'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
@@ -1001,6 +1401,54 @@
           <Count>11</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'FireRulesSpec'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'FireRulesSpec'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'FireRulesSpec.should...'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'FireRulesSpec.should...'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'FiredRuleActionsSpec'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'FiredRuleActionsSpec'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'FiredRuleActionsSpec...'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'FiredRuleActionsSpec...'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'Foo'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'Foo'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'FullEnd2EndRuleEngin...'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'FullEnd2EndRuleEngin...'</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'FullFeatureSpecSuite'">
         <Item>
           <IdeaActionID>RunClass</IdeaActionID>
@@ -1009,11 +1457,35 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'IlnMessageConsumerFe...'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'IlnMessageConsumerFe...'</Description>
+          <Count>4</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'IlnMessageConsumerSpec'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'IlnMessageConsumerSpec'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'ItemServiceImplInteg...'">
         <Item>
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run 'ItemServiceImplInteg...'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'JooqBillingTransactionCreatePointsRedeemedTest'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'JooqBillingTransactionCreatePointsRedeemedTest'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
@@ -1065,6 +1537,22 @@
           <Count>5</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'LagomSpringApp....main()'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'LagomSpringApp....main()'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'LagomSpringApplicati...'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'LagomSpringApplicati...'</Description>
+          <Count>4</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'PblTransactionsConsu...'">
         <Item>
           <IdeaActionID>RunClass</IdeaActionID>
@@ -1081,6 +1569,70 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'RuleAlbumEntityIdSpec'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'RuleAlbumEntityIdSpec'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'RuleBookPoc'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'RuleBookPoc'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'RuleBookRuleEngineSpec'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'RuleBookRuleEngineSpec'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'RuleFactJsonFormatSp...'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'RuleFactJsonFormatSp...'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'RuleFactJsonFormatSpec'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'RuleFactJsonFormatSpec'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'RuleFactTypeSpec'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'RuleFactTypeSpec'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'RuleScopeSpec'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'RuleScopeSpec'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'RuleScopeSpec.when s...'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'RuleScopeSpec.when s...'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'ScalaTests in 'domai...'">
         <Item>
           <IdeaActionID>RunClass</IdeaActionID>
@@ -1094,6 +1646,14 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run 'ScalaTests in 'trans...'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'Should_ReturnResul...()'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'Should_ReturnResul...()'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
@@ -1129,12 +1689,20 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'Tests in 'billing_transaction''">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'Tests in 'billing_transaction''</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'Tests in 'java''">
         <Item>
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run 'Tests in 'java''</Description>
-          <Count>5</Count>
+          <Count>7</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'Tests in 'persistence''">
@@ -1209,6 +1777,54 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'administrationApiD...()'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'administrationApiD...()'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'administrationApiR...()'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'administrationApiR...()'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'creation()'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'creation()'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'customerCanBeMatch...()'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'customerCanBeMatch...()'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'dynamicCampaignSig...()'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'dynamicCampaignSig...()'</Description>
+          <Count>8</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'emptyList()'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'emptyList()'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'reportList()'">
         <Item>
           <IdeaActionID>RunClass</IdeaActionID>
@@ -1273,12 +1889,20 @@
           <Count>4</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'testConnection()'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'testConnection()'</Description>
+          <Count>4</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'thatActivePointsCa...()'">
         <Item>
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run 'thatActivePointsCa...()'</Description>
-          <Count>2</Count>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'thatBrandListCanBe...()'">
@@ -1313,11 +1937,35 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'thatCopyCreatesCop...()'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'thatCopyCreatesCop...()'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'thatCorrectFailure...()'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'thatCorrectFailure...()'</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'thatCustomerPoints...()'">
         <Item>
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run 'thatCustomerPoints...()'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'thatDynamicCampaig...()'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'thatDynamicCampaig...()'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
@@ -1327,6 +1975,30 @@
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run 'thatExpiredPointsB...()'</Description>
           <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'thatFeeModelCanBeC...()'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'thatFeeModelCanBeC...()'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'thatFeeModelCanBeU...()'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'thatFeeModelCanBeU...()'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'thatFeeModelCannot...()'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'thatFeeModelCannot...()'</Description>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'thatIlnDbIsChecked()'">
@@ -1342,6 +2014,14 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run 'thatJsonIsCreated()'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'thatListOfRedempti...()'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'thatListOfRedempti...()'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
@@ -1393,6 +2073,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'thatPointTransacti...()'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'thatPointTransacti...()'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'thatPointsCanBeAdd...()'">
         <Item>
           <IdeaActionID>RunClass</IdeaActionID>
@@ -1441,11 +2129,59 @@
           <Count>4</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'thatRuleEngineConf...()'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'thatRuleEngineConf...()'</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'thatSignUpCampaign...()'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'thatSignUpCampaign...()'</Description>
+          <Count>5</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'thatSubcategoriesC...()'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'thatSubcategoriesC...()'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'thatTransactionCan...()'">
         <Item>
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run 'thatTransactionCan...()'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'thatVoucherSoldCan...()'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'thatVoucherSoldCan...()'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'thatVoucherSoldIsP...()'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'thatVoucherSoldIsP...()'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'thatVoucherWithNoM...()'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'thatVoucherWithNoM...()'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
@@ -1470,6 +2206,14 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run 'that_filter_date_c...()'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'that_task_can_be_r...()'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'that_task_can_be_r...()'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
@@ -1510,7 +2254,15 @@
           <IdeaActionID>Diff.ShowDiff</IdeaActionID>
           <ShortCut>'⌘D'</ShortCut>
           <Description>Show Diff</Description>
-          <Count>24</Count>
+          <Count>37</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'CustomerIlnMessagesConsumerSpec.Feature: Processing customer ILN messages Scenario: Rule exists so consequences are produced'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'CustomerIlnMessagesConsumerSpec.Feature: Processing customer ILN messages Scenario: Rule exists so consequences are produced'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'DividerSpec'">
@@ -1537,12 +2289,36 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'JooqBillingTransactionCreatePointsRedeemedTest.thatPointsRedeemedWithSameIdIsNotStoredAgainAndReturnSuccess'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'JooqBillingTransactionCreatePointsRedeemedTest.thatPointsRedeemedWithSameIdIsNotStoredAgainAndReturnSuccess'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'JooqReportContentTest.thatReportContentCannotBeCreatedTwiceForSameReport'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'JooqReportContentTest.thatReportContentCannotBeCreatedTwiceForSameReport'</Description>
           <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'LagomSpringApplication'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'LagomSpringApplication'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'MerchantBillingReportsServiceTest.thatCorrectFailureIsReturnedForNoData'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'MerchantBillingReportsServiceTest.thatCorrectFailureIsReturnedForNoData'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'PblTransactionsConsumerFeatureSpec.Feature: PBL transaction events consumption Scenario: Invalid json should be stored into another queue'">
@@ -1575,6 +2351,14 @@
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'SuccessfulSendFeature.thatMessageCanBeReceived'</Description>
           <Count>4</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'TestWithOracle.testConnection'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'TestWithOracle.testConnection'</Description>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'TransactionReceiverFeatureSpec'">
@@ -1622,7 +2406,7 @@
           <IdeaActionID>ActivateTODOToolWindow</IdeaActionID>
           <ShortCut>'⌘6'</ShortCut>
           <Description>TODO</Description>
-          <Count>17</Count>
+          <Count>22</Count>
         </Item>
       </Statistic>
       <Statistic Action="Terminal">
@@ -1630,7 +2414,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'⌥F12'</ShortCut>
           <Description>Terminal</Description>
-          <Count>488</Count>
+          <Count>876</Count>
         </Item>
       </Statistic>
       <Statistic Action="Test">
@@ -1638,7 +2422,7 @@
           <IdeaActionID>GotoTest</IdeaActionID>
           <ShortCut>'⇧⌘T'</ShortCut>
           <Description>Test</Description>
-          <Count>3</Count>
+          <Count>10</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Line Breakpoint">
@@ -1646,7 +2430,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌘F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>63</Count>
+          <Count>100</Count>
         </Item>
       </Statistic>
       <Statistic Action="Unshelve...">
@@ -1654,7 +2438,7 @@
           <IdeaActionID>ShelveChanges.UnshelveWithDialog</IdeaActionID>
           <ShortCut>'⇧⌘U'</ShortCut>
           <Description>Unshelve...</Description>
-          <Count>17</Count>
+          <Count>26</Count>
         </Item>
       </Statistic>
       <Statistic Action="Version Control">
@@ -1662,7 +2446,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'⌘9' or '⇧⌘9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>615</Count>
+          <Count>1075</Count>
         </Item>
       </Statistic>
     </option>
