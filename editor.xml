@@ -4,6 +4,7 @@
     <option name="COLLAPSE_FILE_HEADER" value="false" />
   </component>
   <component name="CodeInsightSettings">
+    <option name="AUTOINSERT_PAIR_BRACKET" value="false" />
     <EXCLUDED_PACKAGE NAME="com.sun.net.httpserver" />
     <EXCLUDED_PACKAGE NAME="sun.awt.EventListenerAggregate" />
   </component>
