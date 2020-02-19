@@ -138,6 +138,10 @@
           <option name="url" value="http://p-ops-vcs.wirecard.sys" />
           <option name="userName" value="miroslav.matejovsky" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://wirecard.com@gitlab.wirecard-cloud.com" />
+          <option name="userName" value="miroslav.matejovsky" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\dev\projects" />
