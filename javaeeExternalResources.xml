@@ -8,7 +8,7 @@
     <resource url="http://www.liquibase.org/xml/ns/dbchangelog" location="$USER_HOME$/Library/Caches/IntelliJIdea2016.3/extResources/32db523b_dbchangelog-3.4.xsd" />
     <resource url="http://www.liquibase.org/xml/ns/dbchangelog/dbchangelog-3.1.xsd" location="$USER_HOME$/.IdeaIC2017.2/system/extResources/32b10bb8_dbchangelog-3.1.xsd" />
     <resource url="http://www.liquibase.org/xml/ns/dbchangelog/dbchangelog-3.5.xsd" location="$USER_HOME$/Library/Caches/IntelliJIdea2018.2/extResources/32e969bc_dbchangelog-3.5.xsd" />
-    <resource url="http://www.liquibase.org/xml/ns/dbchangelog/dbchangelog-3.6.xsd" location="$USER_HOME$/Library/Caches/IntelliJIdea2018.3/extResources/32f7813d_dbchangelog-3.6.xsd" />
+    <resource url="http://www.liquibase.org/xml/ns/dbchangelog/dbchangelog-3.6.xsd" location="$USER_HOME$/Library/Caches/IntelliJIdea2019.3/extResources/32f7813d_dbchangelog-3.6.xsd" />
     <resource url="http://www.walkmod.com/dtd/walkmod-1.1.dtd" location="$USER_HOME$/Library/Caches/IntelliJIdea2016.3/extResources/e1202b9f_walkmod-1.1.dtd" />
   </component>
 </application>
