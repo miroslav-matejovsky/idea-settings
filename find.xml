@@ -21,8 +21,8 @@
     <mask>*.adoc</mask>
     <mask>*.proto</mask>
     <mask>*.yml</mask>
-    <mask>*.gradle</mask>
     <mask>*.yaml</mask>
     <mask>*.xml</mask>
+    <mask>*.gradle</mask>
   </component>
 </application>
