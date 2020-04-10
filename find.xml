@@ -19,10 +19,10 @@
     <mask>*.conf</mask>
     <mask>*.adoc</mask>
     <mask>*.proto</mask>
-    <mask>*.yml</mask>
     <mask>*.yaml</mask>
     <mask>*.xml</mask>
     <mask>*.gradle</mask>
     <mask>*.sql</mask>
+    <mask>*.yml</mask>
   </component>
 </application>
