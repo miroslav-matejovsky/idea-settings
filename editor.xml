@@ -11,9 +11,6 @@
     <EXCLUDED_PACKAGE NAME="org.joda" />
     <EXCLUDED_PACKAGE NAME="sun.awt.EventListenerAggregate" />
   </component>
-  <component name="DefaultFont">
-    <option name="FONT_FAMILY" value="JetBrains Mono" />
-  </component>
   <component name="EditorSettings">
     <option name="USE_SOFT_WRAPS" value="" />
     <option name="IS_WHITESPACES_SHOWN" value="true" />
