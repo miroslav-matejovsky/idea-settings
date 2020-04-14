@@ -166,6 +166,7 @@
     <option name="cloneParentDir" value="$USER_HOME$/dev/repositories" />
   </component>
   <component name="Vcs.Log.App.Settings">
+    <option name="COMPACT_REFERENCES_VIEW" value="false" />
     <option name="COLUMN_ORDER">
       <list>
         <option value="0" />
