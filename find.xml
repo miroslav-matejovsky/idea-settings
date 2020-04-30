@@ -20,9 +20,10 @@
     <mask>*.adoc</mask>
     <mask>*.proto</mask>
     <mask>*.yaml</mask>
-    <mask>*.xml</mask>
     <mask>*.sql</mask>
     <mask>*.yml</mask>
+    <mask>*.sh</mask>
     <mask>*.gradle</mask>
+    <mask>*.xml</mask>
   </component>
 </application>

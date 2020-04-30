@@ -5,9 +5,10 @@
     <resource url="http://www.citrusframework.org/schema/jms/testcase" location="$USER_HOME$/Library/Caches/IntelliJIdea2019.3/extResources/f88451f_citrus-jms-testcase.xsd" />
     <resource url="http://www.citrusframework.org/schema/testcase/citrus-testcase.xsd" location="$USER_HOME$/Library/Caches/IntelliJIdea2019.3/extResources/49c03e63_citrus-testcase.xsd" />
     <resource url="http://www.citrusframework.org/schema/ws/testcase" location="$USER_HOME$/Library/Caches/IntelliJIdea2019.3/extResources/696eb85_citrus-ws-testcase.xsd" />
+    <resource url="http://www.hazelcast.com/schema/config/hazelcast-config-3.9.xsd" location="$USER_HOME$/Library/Caches/JetBrains/IntelliJIdea2020.1/extResources/87e218f1_hazelcast-config-3.9.xsd" />
     <resource url="http://www.liquibase.org/xml/ns/dbchangelog" location="$USER_HOME$/Library/Caches/IntelliJIdea2016.3/extResources/32db523b_dbchangelog-3.4.xsd" />
     <resource url="http://www.liquibase.org/xml/ns/dbchangelog/dbchangelog-3.1.xsd" location="$USER_HOME$/.IdeaIC2017.2/system/extResources/32b10bb8_dbchangelog-3.1.xsd" />
-    <resource url="http://www.liquibase.org/xml/ns/dbchangelog/dbchangelog-3.5.xsd" location="$USER_HOME$/Library/Caches/IntelliJIdea2018.2/extResources/32e969bc_dbchangelog-3.5.xsd" />
+    <resource url="http://www.liquibase.org/xml/ns/dbchangelog/dbchangelog-3.5.xsd" location="$USER_HOME$/Library/Caches/JetBrains/IntelliJIdea2020.1/extResources/32e969bc_dbchangelog-3.5.xsd" />
     <resource url="http://www.liquibase.org/xml/ns/dbchangelog/dbchangelog-3.6.xsd" location="$USER_HOME$/Library/Caches/IntelliJIdea2019.3/extResources/32f7813d_dbchangelog-3.6.xsd" />
     <resource url="http://www.walkmod.com/dtd/walkmod-1.1.dtd" location="$USER_HOME$/Library/Caches/IntelliJIdea2016.3/extResources/e1202b9f_walkmod-1.1.dtd" />
   </component>
