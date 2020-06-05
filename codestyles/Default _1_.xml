@@ -5,6 +5,10 @@
     <option name="CLASS_COUNT_TO_USE_IMPORT_ON_DEMAND" value="1000" />
     <option name="NAMES_COUNT_TO_USE_IMPORT_ON_DEMAND" value="1000" />
   </JavaCodeStyleSettings>
+  <JetCodeStyleSettings>
+    <option name="NAME_COUNT_TO_USE_STAR_IMPORT" value="2147483647" />
+    <option name="NAME_COUNT_TO_USE_STAR_IMPORT_FOR_MEMBERS" value="2147483647" />
+  </JetCodeStyleSettings>
   <ScalaCodeStyleSettings>
     <option name="NOT_CONTINUATION_INDENT_FOR_PARAMS" value="true" />
     <option name="SCALAFMT_REFORMAT_ON_FILES_SAVE" value="true" />
