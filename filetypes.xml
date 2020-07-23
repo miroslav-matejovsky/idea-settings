@@ -8,6 +8,7 @@
       <mapping pattern=".sbtopts" type="PLAIN_TEXT" />
       <mapping pattern=".keep" type="PLAIN_TEXT" />
       <mapping pattern=".jmvopts" type="PLAIN_TEXT" />
+      <mapping pattern="protobuf" type="PLAIN_TEXT" />
       <mapping pattern="v9/a" type="PLAIN_TEXT" />
       <mapping pattern=".scalafmt" type="PLAIN_TEXT" />
       <mapping pattern=".jvmopts" type="PLAIN_TEXT" />
