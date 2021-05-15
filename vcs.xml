@@ -173,19 +173,7 @@
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/dev/repositories" />
   </component>
-  <component name="Vcs.Log.App.Settings">
-    <option name="COMPACT_REFERENCES_VIEW" value="false" />
-    <option name="COLUMN_ORDER">
-      <list>
-        <option value="0" />
-        <option value="1" />
-        <option value="2" />
-        <option value="3" />
-      </list>
-    </option>
-  </component>
   <component name="VcsApplicationSettings">
-    <option name="PATCH_STORAGE_LOCATION" value="$USER_HOME$/dev" />
     <option name="COMMIT_FROM_LOCAL_CHANGES" value="true" />
   </component>
 </application>
